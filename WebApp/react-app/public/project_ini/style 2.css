@@ -1,0 +1,145 @@
+
+:root {
+	--app-theme: #ebecebec;
+	--card-shadow: 0px 5px 22px rgba(0,0,0,0.3);
+	--overlay-background: rgba(0, 0, 0, 0.664);
+	--white-back: #fff;
+}
+.logo-container{
+	position: absolute;
+	left: 1em;
+    width:10em;
+    height:7em;
+    
+	
+}
+body, html{
+	padding:none;
+	margin:none;
+	height: auto;
+	width: auto;
+	background-image: url(image/background.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: grid;
+	place-items:center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.tab {
+	overflow: hidden;
+	border-bottom: 1px solid #ccc;
+}
+  
+.tab button {
+	float: left;
+	border: none;
+	border-radius: 10px;
+	background: none;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	transition: 0.3s;
+	font-size: large;
+	font-weight: bold;
+	margin: 0 8px;
+	margin-bottom: 8px;
+}
+  
+.tab button:hover {
+	background-color: #ddd;
+}
+  
+.tab .active {
+	background-color: #ccc;
+}
+  
+.tabcontent {
+	display: none;
+	padding: 6px 12px;
+	border: none solid #ccc;
+	border-top: none;
+  }
+.entry {
+	position: relative;
+	top: 5em;
+	max-width: 50vw;
+	max-height: 50vh;
+	padding: 30px 30px;
+	background-color: white;
+	border-radius: 20px;
+	box-shadow: var(--card-shadow);
+	text-align: center;
+	font-size: x-large;
+}
+.entry input{
+	border:none;
+	margin: auto;
+	padding: 10px 5px;
+	background-color: rgb(207, 204, 204);
+	border-radius: 5px;
+	font-weight: bold;
+}
+.app-paper{
+	position: relative;
+	top: 5em;
+	max-width: 86vw;
+	max-height: none;
+	padding: 30px 15px;
+	background-color: white;
+	border-radius: 7px;
+	box-shadow: var(--card-shadow);
+	text-align: center;
+	font-size: x-large;
+	
+}
+
+.checkbox-list {
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 14px;
+	gap: 4em;
+	padding: 20px 0;
+	
+}
+
+
+.check-item span {
+	display: grid;
+	padding:  25px 14px;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+	min-width: 15em;
+	background-color: rgba(216, 216, 216, 0.774);
+	color: #00000060;
+}
+
+.check-item span:hover{
+	background-color: #00000060;
+	transition: 0.2s;
+}
+.check-item .active{
+	background-color: #00000060;
+	color: #fff;
+}
+.back_home {
+	background-color: #00000060;
+	float: center;
+	border: none;
+	border-radius: 10px;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	transition: 0.3s;
+	font-size: large;
+	font-weight: bold;
+	float: right;
+	margin-top: 14px;
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
+

@@ -1,0 +1,62 @@
+.navbar-toggle {
+    background-color:#D8D8D8 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 20%;
+    width: 100%;
+}
+
+.top {
+    padding-right: 60%;
+    font-weight: bold;
+    padding-bottom: 8%;
+    font-size: 130%;
+}
+
+.cross {
+    font-size: 1.5rem;
+    padding-left: 80%;
+    padding-bottom: 10%;
+}
+
+.bookmark {
+    color: #fcb646
+}
+
+.space {
+    margin-top: 110%;
+}
+
+.navbar-toggle-projects{
+    background-color:#D8D8D8 ;
+    display: flex;
+    flex-direction: column;
+    height: 20%;
+    width: 100%;
+}
+
+.back {
+    font-size: 1.5rem;
+    padding-top: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Projects {
+    font-weight: bold;
+    font-size: 130%;
+    padding-left: 10%;
+    padding-top: 20%;
+}
+
+.space-project {
+    margin-top: 140%;
+}
+
+.add-new-project {
+    font-size: 1.2em;
+    padding: 5%;    
+}
+

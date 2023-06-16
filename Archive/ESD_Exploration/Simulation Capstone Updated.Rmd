@@ -1,0 +1,155 @@
+---
+title: ""
+author: "Kenny Ang"
+date: ""
+---
+
+```{r}
+library("writexl")
+rm(list=ls()) # Clear the environment
+
+n <- 300
+no_of_precedence <- 66
+xx <- 0
+lambda_for_poisson <- 3
+prob_bernoulli <- 0.4
+k <- 0.8
+
+while(xx < 2)
+{
+  
+  count <- 0
+  while (count < 100)
+  {
+    for (i in 1:no_of_precedence)
+    {
+
+      Time_in_seconds <- rweibull(n, k, scale = 1) #k = 2.3
+      #Time_in_seconds <- rweibull(n, 0.8, scale = 1) #k = 0.8
+      
+      mean_weibull <- gamma(1 + 1/k)    #mean of weibull
+      variance_weibull <- gamma(1 + 2/k) - (gamma(1+1/k))^2   #variance of weibull
+      sd_weibull <- sqrt(variance_weibull)
+      
+      lowerlimit <- mean_weibull - 3*sd_weibull
+      if (lowerlimit < 0){
+        lowerlimit <- 0
+      }
+      upperlimit <- mean_weibull + 3*sd_weibull
+
+      
+      Percentage_of_page_scrolled <- rbeta(n, 1.5, 0.5, 0)
+      #Percentage_of_page_scrolled <- rbeta(n, 1.5, 1.5, 0)
+      
+      
+      Click_link <- rep(0, n)
+      Download_image <- rep(0, n)
+      Return_again <- rep(0, n)
+      
+      for (j in 1:n){
+        
+        if (runif(1, min = 0, max = 1) < prob_bernoulli){
+          Click_link[j] <- 1
+        }
+        if (runif(1, min = 0, max = 1) < prob_bernoulli){
+            Download_image[j] <- 1
+        }
+        if (runif(1, min = 0, max = 1) < dpois(rpois(1, lambda_for_poisson), lambda = lambda_for_poisson)){
+            Return_again[j] <- 1
+        }
+        
+      }
+    
+      
+      if (i == 1)
+      {
+        data <- data.frame(User = (1:n), Precedence = i, Time_in_seconds = Time_in_seconds, Percentage_of_page_scrolled = Percentage_of_page_scrolled, Click_link = Click_link, Download_image = Download_image, Return_again = Return_again)
+      }
+      else
+      {
+        dt <- data.frame(User = (1:n), Precedence = i, Time_in_seconds = Time_in_seconds, Percentage_of_page_scrolled = Percentage_of_page_scrolled, Click_link = Click_link, Download_image = Download_image, Return_again = Return_again)
+        data <- rbind(data, dt)
+      }
+    }
+    
+    max_time <- upperlimit
+    min_time <- lowerlimit
+
+    max_scrolled <- as.double(max(data$Percentage_of_page_scrolled))
+    min_scrolled <- as.double(min(data$Percentage_of_page_scrolled))
+
+    a <- 1
+    b <- 5
+
+    # To insert some N/A
+
+    if (xx == 0){
+      sparsity <- 0.6
+    }
+    else{
+      sparsity <- 0.9
+    }
+
+    for (jj in 1:(n*no_of_precedence))
+    {
+      if (runif(1, min=0, max = 1) < sparsity)
+      {
+        data[jj,3:7] <- "N/A"
+      }
+      else #Normalise the data
+      {
+        data[jj,3] <- (b - a)*(as.double(data[jj,3]) - min_time)/(max_time - min_time) + a
+        data[jj,4] <- (b - a)*(as.double(data[jj,4]) - min_scrolled)/(max_scrolled - min_scrolled) + a
+      }
+    }
+
+
+    ##################################### Algo 1 ############################################
+
+    data$score <- "-"
+
+    for (jj in 1:(n*no_of_precedence))
+    {
+      if (data[jj,3] != "N/A")
+      {
+
+        #weight <- c(0.1, 0.1, 0.3, 0.1, 0.4)
+        #weight <- c(0.2, 0.2, 0.2, 0.3, 0.1)
+        weight <- c(0.2, 0.2, 0.2, 0.2, 0.2)
+
+        score <- round(weight[1]*as.double(data[jj, 3]) + weight[2]*as.double(data[jj, 4]) + weight[3]*5*as.double(data[jj, 5]) + weight[4]*5*as.double(data[jj, 6])+ weight[5]*5*as.double(data[jj, 7]) + rnorm(1, mean = 0, sd = 1))
+        
+        if (score < 1)
+        {
+          score <- 1
+        }
+        if (score > 5)
+        {
+          score <- 5
+        }
+        data$score[jj] <- score
+      }
+
+      else
+      {
+        data$score[jj] <- "N/A"
+      }
+
+    }
+
+    data <- data[,-c(3:7)]
+    #data <- data[,-c(1)]
+
+    #################################### Algo 2 ############################################
+    sim_number <- 13
+    if (sparsity == 0.9){
+      sim_number <- sim_number + 1
+    }
+    #print(paste0("SimulationDataSetting_", sim_number,"_", count, ".csv"))
+    
+    write.csv(data, paste0("SimulationDataSetting_", sim_number,"_", count, ".csv"))
+    count = count + 1
+  }
+  xx = xx + 1
+}
+```

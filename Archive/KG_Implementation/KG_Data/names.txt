@@ -1,0 +1,647 @@
+Steven Holl Architects
+Hunter Point Library
+Zaha Hadid Architects
+Antoine le Pautre
+Greene and Greene
+Curtis Fentress
+Tay Kheng Soon
+Frank Lloyd Wright
+Frank Gehry
+Carlo Scarpa
+Tadao Ando Architect & Associates
+Arata Isozaki
+Le Corbusier
+Alvar Aalto
+Safdie Architects
+Edward Suzuki Associates
+Richard Neutra
+Bjarke Ingels Group
+OZ. E. TECTURE
+Thomas Jefferson
+Buckminster Fuller
+Behnisch & Partner
+Frei Otto
+Leonhardt, Andrä und Partner
+PTW Architects
+CSCEC & DESIGN
+Jean Nouvel
+SANAA
+Louis Kahn
+Gerrit Rietveld
+Foster + Partners
+Alsop Architects
+James Stirling
+Michael Wilford
+Spark Architects
+Gunnar Asplund
+Shigeru Ban
+Michael Green Architecture
+DLR Group
+MVRDV
+Richard Rogers
+Renzo Piano
+Ole Scheeren
+Richard Rogers (RSHP)
+COOP HIMMELB(L)AU
+Leers Weinzapfel Associates
+Studio Libeskind
+Iannis Xenakis
+Structure
+Circulation
+Spatial Organisation
+Operation
+Site
+Ordering Principle
+"Bilbao Effect"
+20th Century
+360 panoramic views
+active gathering spaces
+adjoined units
+arc
+architectural promenade
+art glass
+aspiring
+asymmetrical
+asymmetrical site
+atrium
+axes
+baroque
+beach
+blurring
+box
+brick
+canopy
+cargo containers
+cavernous
+central staircase
+circular
+circulation
+clean
+clerestory windows
+collapsable walls
+colonnade
+colours
+column-free spaces
+compact plan
+composition
+concrete
+concrete structure
+connector
+contours
+courtyard
+craftsmenship
+creek
+cross ventilation
+cubes
+cultural treasure
+curtain-wall
+curves
+cyclones
+daylight
+detail
+Displacement Ventilation System
+dome
+domed roof
+Doric columns
+Doric entablature
+double skin
+double-curved
+dry winters
+dynamic spaces
+ecosystem
+edifice
+elegant
+elevated
+enclosure
+energy
+event plaza
+
+expansion
+extended portico
+fabric roof
+family
+flexible enclosure
+flexible interior spaces
+flexible space
+flooding
+flowing shapes
+folds
+four-square
+free facade
+free plan
+free-flowing spaces
+free-form structure
+french baroque
+galleries
+garden
+glazing
+green
+green belt
+green roof
+hexgonal campanile
+high-tensile cables
+horizontal
+iconic
+indoor waterfall
+inflatable
+inflections
+inner facade
+inside out
+interlocking squares
+intimate reading spaces
+inviting
+Japanese
+lagoon
+landmark
+landscape
+landscaping
+leisure
+light
+light and shadow
+light ornament
+lightweight
+linear
+lively
+long and narrow
+lumber
+marketplace
+meander
+membrane
+mezzanine
+mobile
+modular
+modular facade
+Monsoonal Tropical Climate
+monumental
+motion
+movement
+multi-level interior spaces
+multi-purposed stairs
+multicolored
+natural light
+nature
+non-bureaucratic 
+octagonal drum
+oculus
+open circulatory space
+open-plan
+openings
+operable skin
+orb
+outdoor spaces
+overlapping blocks
+paint
+parallel
+park
+pedestrian bridges
+perforations 
+pinwheel
+pioneer
+pitched roof
+porch
+portable partitions
+prefabricated
+projections
+protective shell
+public plaza
+punctured
+radical
+raised floors
+ramp
+recesses
+scale
+screen
+sculpted cuts
+sculptural
+semi-transparent
+shade
+shallow dome
+simple geometry
+single-loaded
+sinuous
+site response
+skylight
+skylit central commons
+slicing
+snaking
+social spaces
+spatial and interactive experiences
+spiral
+squares
+static
+steel masts
+stone
+storm water management
+structural fields
+structural glass
+suspended catenary glass-bottom bridge walk
+swimming pool
+tea house
+teamed
+terrace
+terraced indoor garden
+textile-block
+textures
+topography
+transitionary space
+triangle pediment
+uncluttered
+undulating
+universal space
+urban cave
+vertical canyons
+vertical counterpoint
+views
+visual connections
+void
+warm
+wayfinding
+wet summers
+wood-concrete composite
+wooden balustrade
+workshops
+floating
+double height
+interlocking
+open volume
+cantilever
+sound
+harmony
+expo
+electronic
+layered
+prismatic
+stretching
+motifs
+moveable walls
+triangular
+octagonal
+angled
+Belgium
+Sweden
+Malaysia
+Bangladesh
+The Netherlands
+Qatar
+China
+Germany
+Canada
+Denmark
+Finland
+France
+Azerbaijan
+Japan
+United States
+Panama
+Spain
+India
+Italy
+England
+Switzerland
+Singapore
+Australia
+Stone
+PTFE
+ETFE
+Wood
+Brick
+Concrete
+Plaster
+Ceramic
+Glass
+Steel
+Limestone
+Titanium
+Plastic
+Textile-block
+Slate
+Glass Fiber Reinforced Polyester
+Acrylic
+Aluminium
+Investcorp Building
+Hunter Point Library
+Heydar Aliyev Centre
+Jewel Changi Airport
+Katsura Imperial Villa
+Kaufmann House
+Koshino House
+Palace of Assembly (Legislative Assembly Building)
+LEGO House
+Library of Mount Angel
+Maison des Fondateurs
+Marika-Alderton House
+Marques de Riscal Hotel
+Monticello 
+Montreal Biosphere
+MoPOP
+Munich Olympic Stadium
+National Aquatics Center Beijing
+Villa Savoye
+National Museum of Qatar
+New Museum
+Phillips Exeter Academy Library
+Poly Grand Theater
+Punta Della Dogana
+Rietveld-Schroeder House
+Sainsbury Center
+Samuel Freeman House
+Sharp Centre for Design
+Sher-e-bangla Nagar
+Social Science Research Centre, Germany
+Starhill Gallery
+Stockholm Public Library
+Swatch Headquarters
+T3
+Tetris Hotel
+The Centre Pompidou
+The Interlace
+The Millennium Dome
+UFA Cinema
+UMass Design Building
+Unité d'Habitation
+V&A Spiral
+Venice Hospital, Le Corbusier
+Philips Pavilion
+Villa Shodhan
+Vitra Fire Station
+Vuoksenniska Church
+W. A. Glasner House
+Walt Disney Concert Hall
+Wingspread
+Hotel de Beauvais
+Gamble House
+Friedman House
+Freitag Tower
+Denver Airport
+Chee Tong Temple
+Capitol Complex
+Ark Nova
+Baker House
+Castelvecchio Museum
+Bilbao Guggenheim Museum
+Chapel on Mt. Rokko
+Säynätsalo Town Hall
+Darwin D. Martin House and Estate
+Biomuseo
+Falling Water
+adaptable
+adaptive resuse
+addition
+algorithm
+American Craftsmen
+anachronistic
+anthropomorphic plan
+balance
+bounded frame
+Broadacre City
+brutalist
+cardinal axes
+carved
+cascading
+catalysmic disruption
+cavernous
+circular
+classical
+climatic
+clustered
+color-coded
+communal
+concavity
+connectivity
+conservation
+constructivism
+contrast
+conventional
+convexity
+cultural
+cutting-edge
+De Stijl
+diagonal
+distinguish
+dynamic shading
+dynamicity
+eccentric
+efficiency
+elemental
+emblematic
+engulf
+environmental performance
+environmentally friendly
+evaporative cooling
+evolving
+Five Points of Architecture
+flexibility
+fluidity
+folded
+fractured
+fragmentation
+free plan
+friendly
+functionally optimised
+futuristic
+gastalt
+grid
+hexagonal
+high-tech
+industrial
+integration
+interconnectivity
+interlocking
+interpenetrate
+interwoven
+irregular
+juxtaposition
+machine for living
+mathematical
+mechanistic
+miniature city
+minimalist
+misalign
+modern interpretation
+modular
+monochromatic
+monumentality
+multi-family
+multi-purposed
+nakedness
+narrative
+naturally-ventilated
+neutral
+open-plan
+organic
+organizational efficiency
+orthogonal
+parallel
+planar
+playfulness
+positive-negative balance line
+primary colours
+programmatic divisions
+proportional plan to section relationships
+punctured
+rational
+rectilinear
+restoration
+rupture
+seamless
+serenity
+shifting
+simple
+solidity
+spatial interplay
+spatial sequence
+stack
+state of the art
+static shading
+structural expression
+study in opposition
+subtraction
+suspended
+symmetry
+technical capability
+temporary
+tension
+transformable
+transparency
+unify
+utopia
+vertical garden city
+verticality
+views
+visionary
+visual connections
+visual privacy
+zen buddism
+porous
+linear
+hermetic
+frozen
+sharpness
+social
+asymmetrical
+curvilinear
+Hospital
+Pavilion
+Installation
+Commercial
+Gallery
+Stadium
+Workspace
+Retail
+Library
+Cultural center
+Townhouse
+Observation Deck
+Airport
+Residence
+Place of Worship
+Civic Building
+Museum
+Dormitory
+Concert Hall / Theatre
+American Craftsmen
+Art Deco
+Art Nouveau
+Baroque
+Beaux Arts
+Nordic Classicism
+Cargotecture
+Classic
+Contemporary
+Deconstructivism
+Futuristic
+High-tech
+International
+Modern
+Neo-futurism
+Neo-Gothic
+Neoclassicism
+Parametric
+Postmodern
+Renaissance
+Rococo
+Usonian
+Vernacular
+Zen buddhist, Shoin-zukuri
+Circulation: Linear
+Circulation: Ramp
+Circulation: Radial
+Circulation: Vertical
+Circulation: Radial
+Operation: Crumple
+Operation: Curve
+Operation: Fold
+Operation: Add
+Operation: Inflate
+Operation: Slot
+Operation: Pull
+Operation: Stack
+Operation: Modulate
+Operation: Subtract
+Ordering Principle: Axis
+Ordering Principle: Datum
+Ordering Principle: Hierachy
+Ordering Principle: Repetition
+Ordering Principle: Symmetry
+Ordering Principle: Transformation
+Site: Climate
+Site: Heritage
+Site: Topography
+Spatial Organisation: Centralised
+Spatial Organisation: Clustered
+Spatial Organisation: Linear
+Spatial Organisation: Grid
+Structure: Grid-shell
+Structure: Columns
+Structure: Space Frame
+Structure: Timber Frame
+Structure: Tensile
+Structure: Steel Frame
+1656
+1772
+1905
+1909
+1922
+1925
+1928
+1929
+1937
+1939
+1947
+1948
+1949
+1952
+1954
+1958
+1962
+1963
+1965
+1967
+1970
+1972
+1973
+1977
+1978
+1984
+1986
+1987
+1988
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2003
+2006
+2007
+2009
+2010
+2013
+2014
+2015
+2016
+2017
+2019

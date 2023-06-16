@@ -1,0 +1,1144 @@
+﻿From Type,From Name,Edge,To Type,To Name,Weight
+Precedents,Hunter Point Library,relates to,Sub-Aspects,Operation: Subtract,8
+Precedents,Hunter Point Library,is designed by,Architect,Steven Holl Architects,8
+Precedents,Hunter Point Library,has Style,Style,Modern,6
+Precedents,Hunter Point Library,is built using,Materials,Concrete,13
+Precedents,Hunter Point Library,is designed/built in,Year,2019,12
+Precedents,Hunter Point Library,is located in,Location,United States,10
+Precedents,Hunter Point Library,serves as a ,Programme,Library,13
+Precedents,Hunter Point Library,has Attribute,Attribute,intimate reading spaces,13
+Precedents,Hunter Point Library,has Attribute,Attribute,active gathering spaces,6
+Precedents,Hunter Point Library,has Attribute,Attribute,social spaces,6
+Precedents,Hunter Point Library,has Attribute,Attribute,mezzanine,10
+Precedents,Hunter Point Library,has Attribute,Attribute,compact plan,6
+Precedents,Hunter Point Library,has Attribute,Attribute,natural light,7
+Precedents,Hunter Point Library,has Attribute,Attribute,sculpted cuts,7
+Precedents,Hunter Point Library,has Principle,Principle,programmatic divisions,12
+Precedents,Heydar Aliyev Centre,serves as a,Programme,Cultural center,5
+Precedents,Heydar Aliyev Centre,relates to,Sub-Aspects,Operation: Curve,5
+Precedents,Heydar Aliyev Centre,relates to,Sub-Aspects,Structure: Space Frame,10
+Precedents,Heydar Aliyev Centre,is designed by,Architect,Zaha Hadid Architects,10
+Precedents,Heydar Aliyev Centre,has Style,Style,Contemporary,13
+Precedents,Heydar Aliyev Centre,is built using,Materials,Wood,12
+Precedents,Heydar Aliyev Centre,is built using,Materials,Concrete,13
+Precedents,Heydar Aliyev Centre,is built using,Materials,Glass Fiber Reinforced Polyester,5
+Precedents,Heydar Aliyev Centre,is designed/built in,Year,2013,12
+Precedents,Heydar Aliyev Centre,is located in,Location,Azerbaijan,6
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,column-free spaces,7
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,aspiring,15
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,undulating,13
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,folds,15
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,inflections,7
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,blurring,6
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,concrete structure,12
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,free-form structure,13
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,motion,6
+Precedents,Heydar Aliyev Centre,has Attribute,Attribute,topography,11
+Precedents,Heydar Aliyev Centre,has Principle,Principle,continuous ,9
+Precedents,Heydar Aliyev Centre,has Principle,Principle,fluid,7
+Precedents,Heydar Aliyev Centre,has Principle,Principle,interior fluidity,13
+Precedents,Heydar Aliyev Centre,has Principle,Principle,unconventional and structural solutions,12
+Precedents,Heydar Aliyev Centre,has Principle,Principle,plasticity,7
+Precedents,Heydar Aliyev Centre,has Principle,Principle,motion,9
+Precedents,Hotel de Beauvais,serves as a,Programme,Townhouse,15
+Precedents,Hotel de Beauvais,serves as a,Programme,Residence,12
+Precedents,Hotel de Beauvais,relates to,Sub-Aspects,Ordering Principle: Symmetry,5
+Precedents,Hotel de Beauvais,is designed by,Architect,Antoine le Pautre,15
+Precedents,Hotel de Beauvais,has Style,Style,French Baroque,15
+Precedents,Hotel de Beauvais,is built using,Materials,Stone,8
+Precedents,Hotel de Beauvais,is designed/built in,Year,1656,13
+Precedents,Hotel de Beauvais,is located in,Location,France,8
+Precedents,Hotel de Beauvais,has Attribute,Attribute,courtyard,8
+Precedents,Hotel de Beauvais,has Attribute,Attribute,free plan,10
+Precedents,Hotel de Beauvais,has Attribute,Attribute,baroque,13
+Precedents,Hotel de Beauvais,has Attribute,Attribute,french baroque,5
+Precedents,Hotel de Beauvais,has Attribute,Attribute,stone,14
+Precedents,Hotel de Beauvais,has Attribute,Attribute,site response,12
+Precedents,Hotel de Beauvais,has Attribute,Attribute,asymmetrical site,6
+Precedents,Hotel de Beauvais,has Principle,Principle,symmetry,5
+Precedents,Hotel de Beauvais,has Principle,Principle,free plan,12
+Precedents,Hotel de Beauvais,has Principle,Principle,adaptive resuse,14
+Precedents,Gamble House,serves as a,Programme,Residence,12
+Precedents,Gamble House,relates to,Sub-Aspects,Spatial Organisation: Clustered,8
+Precedents,Gamble House,has Style,Style,American Craftsmen,14
+Precedents,Gamble House,is designed by,Architect,Greene and Greene,10
+Precedents,Gamble House,is built using,Materials,Wood,9
+Precedents,Gamble House,is designed/built in ,Year,1909,7
+Precedents,Gamble House,is located in,Location,United States,15
+Precedents,Gamble House,has Attribute,Attribute,transition space,6
+Precedents,Gamble House,has Attribute,Attribute,detail,6
+Precedents,Gamble House,has Attribute,Attribute,craftsmenship,15
+Precedents,Gamble House,has Attribute,Attribute,Japanese,5
+Precedents,Gamble House,has Attribute,Attribute,horizontal,8
+Precedents,Gamble House,has Attribute,Attribute,modular,12
+Precedents,Gamble House,has Attribute,Attribute,asymmetrical,9
+Precedents,Gamble House,has Principle,Principle,American Craftsmen,12
+Precedents,Friedman House,serves as a,Programme,Residence,13
+Precedents,Friedman House,relates to,Sub-Aspects,Spatial Organisation: Clustered,8
+Precedents,Friedman House,has Style,Style,Usonian,13
+Precedents,Friedman House,is designed by,Architect,Frank Lloyd Wright,12
+Precedents,Friedman House,is built using,Materials,Concrete,12
+Precedents,Friedman House,is built using,Materials,Wood,5
+Precedents,Friedman House,is built using,Materials,Brick,14
+Precedents,Friedman House,is designed/built in,Year,1948,13
+Precedents,Friedman House,is located in ,Location,United States,6
+Precedents,Friedman House,has Attribute,Attribute,contours,9
+Precedents,Friedman House,has Attribute,Attribute,circular,11
+Precedents,Friedman House,has Principle,Principle,Broadacre City,10
+Precedents,Freitag Tower,relates to,Sub-Aspects,Operation: Modulate,6
+Precedents,Freitag Tower,serves as a,Programme,Observation Deck,7
+Precedents,Freitag Tower,has Style,Style,Cargotecture,14
+Precedents,Freitag Tower,is designed by,Architect,Spillmann Echsle Architekten,8
+Precedents,Freitag Tower,is built using,Materials,Steel,12
+Precedents,Freitag Tower,has Attribute,Attribute,cargo containers,8
+Precedents,Freitag Tower,has Attribute,Attribute,landmark,6
+Precedents,Freitag Tower,has Attribute,Attribute,daylight,9
+Precedents,Freitag Tower,has Principle,Principle,stack,12
+Precedents,Freitag Tower,is designed/built in,Year,2006,11
+Precedents,Freitag Tower,is located in,Location,Switerland,12
+Precedents,Denver Airport,is built using,Materials,PTFE,14
+Precedents,Denver Airport,is built using,Materials,Steel,10
+Precedents,Denver Airport,serves as a,Programme,Airport,15
+Precedents,Denver Airport,has Style,Style,Parametric,8
+Precedents,Denver Airport,is designed/built in ,Year,1995,13
+Precedents,Denver Airport,is located in ,Location,United States,11
+Precedents,Denver Airport,is designed by,Architect,Curtis Fentress,12
+Precedents,Denver Airport,has Attribute,Attribute,fabric roof,9
+Precedents,Denver Airport,has Attribute,Attribute,canopy,6
+Precedents,Denver Airport,has Attribute,Attribute,clerestory window,13
+Precedents,Denver Airport,has Attribute,Attribute,curtain-wall,8
+Precedents,Denver Airport,has Attribute,Attribute,iconic,10
+Precedents,Chee Tong Temple,serves as a,Programme,Place of Worship,13
+Precedents,Chee Tong Temple,is built using,Materials,Glass,10
+Precedents,Chee Tong Temple,relates to,Sub-Aspects,Site: Climate,15
+Precedents,Chee Tong Temple,has Style,Style,Vernacular,13
+Precedents,Chee Tong Temple,is designed by,Architect,Tay Kheng Soon,14
+Precedents,Chee Tong Temple,is designed/built in,Year,1987,5
+Precedents,Chee Tong Temple,is located in ,Location,Singapore,15
+Precedents,Chee Tong Temple,has Attribute,Attribute,enclosure,5
+Precedents,Chee Tong Temple,has Attribute,Attribute,transitionary space,6
+Precedents,Chee Tong Temple,has Principle,Principle,Interpenetration,9
+Precedents,Capitol Complex,serves as a,Programme,Civic Building,10
+Precedents,Capitol Complex,has Style,Style,Modern,14
+Precedents,Capitol Complex,has Attribute,Attribute,edifice,8
+Precedents,Capitol Complex,has Attribute,Attribute,ramp,6
+Precedents,Capitol Complex,has Attribute,Attribute,recesses,13
+Precedents,Capitol Complex,has Attribute,Attribute,modular facade,10
+Precedents,Capitol Complex,has Attribute,Attribute,cross ventilation,12
+Precedents,Capitol Complex,has Attribute,Attribute,natural light,15
+Precedents,Capitol Complex,has Attribute,Attribute,multi-level interior spaces,5
+Precedents,Capitol Complex,has Attribute,Attribute,punctured,11
+Precedents,Capitol Complex,has Attribute,Attribute,long and narrow,15
+Precedents,Capitol Complex,has Attribute,Attribute,projections,9
+Precedents,Capitol Complex,has Attribute,Attribute,interlocking squares,12
+Precedents,Capitol Complex,has Principle,Principle,unify,9
+Precedents,Capitol Complex,has Principle,Principle,organizational efficiency,15
+Precedents,Capitol Complex,has Principle,Principle,anthropomorphic plan,12
+Precedents,Capitol Complex,is designed/built in ,Year,1962,7
+Precedents,Capitol Complex,is located in ,Location,India,11
+Precedents,Capitol Complex,relates to,Sub-Aspects,Structure: Columns,7
+Precedents,Capitol Complex,relates to,Sub-Aspects,Ordering Principle: Repetition,11
+Precedents,Capitol Complex,is built using,Materials,Concrete,14
+Precedents,Capitol Complex,is designed by,Architect,Le Corbusier,13
+Precedents,Ark Nova,serves as a,Programme,Concert Hall / Theatre,15
+Precedents,Ark Nova,relates to,Sub-Aspects,Operation: Inflate,10
+Precedents,Ark Nova,is built using,Materials,Plastic,11
+Precedents,Ark Nova,is designed by,Architect,Arata Isozaki,6
+Precedents,Ark Nova,has Style,Style,Contemporary,9
+Precedents,Ark Nova,has Principle,Principle,Levithan,13
+Precedents,Ark Nova,has Attribute,Attribute,mobile,13
+Precedents,Ark Nova,has Attribute,Attribute,orb,8
+Precedents,Ark Nova,has Attribute,Attribute,inflatable,15
+Precedents,Ark Nova,has Attribute,Attribute,sculptural,8
+Precedents,Ark Nova,has Attribute,Attribute,membrane,11
+Precedents,Ark Nova,has Attribute,Attribute,teamed,13
+Precedents,Ark Nova,is designed/built in ,Year,2013,5
+Precedents,Ark Nova,is located in,Location,Japan,15
+Precedents,Baker House,serves as a,Programme,Dormitory,9
+Precedents,Baker House,has Style,Style,Modern,7
+Precedents,Baker House,has Attribute,Attribute,single-loaded,14
+Precedents,Baker House,has Attribute,Attribute,parallel,6
+Precedents,Baker House,has Attribute,Attribute,sinuous,6
+Precedents,Baker House,has Attribute,Attribute,undulating,6
+Precedents,Baker House,has Attribute,Attribute,static,7
+Precedents,Baker House,has Attribute,Attribute,movement,12
+Precedents,Baker House,has Attribute,Attribute,modular,11
+Precedents,Baker House,has Principle,Principle,rectilinear,9
+Precedents,Baker House,is designed by,Architect,Alvar Aalto,10
+Precedents,Baker House,is built using,Materials,Brick,5
+Precedents,Baker House,relates to,Sub-Aspects,Spatial Organisation: Linear,13
+Precedents,Baker House,relates to,Sub-Aspects,Spatial Organisation: Orthogonal Plan,8
+Precedents,Baker House,is designed/built in ,Year,1948,5
+Precedents,Baker House,is located in,Location,United States,5
+Precedents,Castelvecchio Museum,serves as a,Programme,Museum,6
+Precedents,Castelvecchio Museum,is built using,Materials,Concrete,8
+Precedents,Castelvecchio Museum,is built using,Materials,Wood,13
+Precedents,Castelvecchio Museum,is built using,Materials,Brick,12
+Precedents,Castelvecchio Museum,is designed by,Architect,Carlo Scarpa,5
+Precedents,Castelvecchio Museum,has Style,Style,Renaissance,10
+Precedents,Castelvecchio Museum,relates to,Sub-Aspects,Site: Heritage,9
+Precedents,Castelvecchio Museum,is designed/built in ,Year,1973,5
+Precedents,Castelvecchio Museum,is located in ,Location,Italy,11
+Precedents,Castelvecchio Museum,has Principle,Principle,restoration,10
+Precedents,Bilbao Guggenheim Museum,serves as a,Programme,Museum,7
+Precedents,Bilbao Guggenheim Museum,is built using,Materials,Titanium,6
+Precedents,Bilbao Guggenheim Museum,is built using,Materials,Limestone,15
+Precedents,Bilbao Guggenheim Museum,is built using,Materials,Glass,13
+Precedents,Bilbao Guggenheim Museum,has Style,Style,Deconstructivism,14
+Precedents,Bilbao Guggenheim Museum,is designed by,Architect,Frank Gehry,12
+Precedents,Bilbao Guggenheim Museum,relates to,Sub-Aspects,Operation: Crumple,7
+Precedents,Bilbao Guggenheim Museum,relates to,Sub-Aspects,Spatial Organisation: Orthogonal Plan,8
+Precedents,Bilbao Guggenheim Museum,relates to,Sub-Aspects,Spatial Organisation: Grid,12
+Precedents,Bilbao Guggenheim Museum,relates to,Sub-Aspects,Circulation: Ramp,5
+Precedents,Bilbao Guggenheim Museum,is designed/built in ,Year,1997,15
+Precedents,Bilbao Guggenheim Museum,is located in,Location,Spain,11
+Precedents,Bilbao Guggenheim Museum,has Attribute,Attribute,atrium,10
+Precedents,Bilbao Guggenheim Museum,has Attribute,Attribute,metallic,13
+Precedents,Bilbao Guggenheim Museum,has Attribute,Attribute,curves,11
+Precedents,Bilbao Guggenheim Museum,has Attribute,Attribute,transfomation,9
+Precedents,Bilbao Guggenheim Museum,has Attribute,Attribute,"""Bilbao Effect""",10
+Precedents,Bilbao Guggenheim Museum,has Principle,Principle,industrial,5
+Precedents,Bilbao Guggenheim Museum,has Principle,Principle,mathematical,12
+Precedents,Chapel on Mt. Rokko,serves as a,Programme,Place of Worship,13
+Precedents,Chapel on Mt. Rokko,has Style,Style,Contemporary,6
+Precedents,Chapel on Mt. Rokko,is designed by,Architect,Tadao Ando,6
+Precedents,Chapel on Mt. Rokko,relates to,Sub-Aspects,Circulation: Linear,6
+Precedents,Chapel on Mt. Rokko,is built using,Materials,Concrete,11
+Precedents,Chapel on Mt. Rokko,is designed/built in ,Year,1986,12
+Precedents,Chapel on Mt. Rokko,is located in ,Location,Japan,10
+Precedents,Chapel on Mt. Rokko,has Attribute,Attribute,natural light,9
+Precedents,Chapel on Mt. Rokko,has Attribute,Attribute,light and shadow,10
+Precedents,Chapel on Mt. Rokko,has Attribute,Attribute,porch,13
+Precedents,Chapel on Mt. Rokko,has Attribute,Attribute,vertical counterpoint,5
+Precedents,Chapel on Mt. Rokko,has Attribute,Attribute,simple geometry,7
+Precedents,Chapel on Mt. Rokko,has Principle,Principle,spatial sequence,10
+Precedents,Säynätsalo Town Hall,serves as a,Programme,Civic Building,15
+Precedents,Säynätsalo Town Hall,is built using,Materials,Brick,14
+Precedents,Säynätsalo Town Hall,is built using,Materials,Wood,14
+Precedents,Säynätsalo Town Hall,is designed by,Architect,Alvar Aalto,14
+Precedents,Säynätsalo Town Hall,relates to,Sub-Aspects,Ordering Principle: Hierachy,7
+Precedents,Säynätsalo Town Hall,has Style,Style,Modern,11
+Precedents,Säynätsalo Town Hall,has Style,Style,Classic,9
+Precedents,Säynätsalo Town Hall,is designed/built in,Year,1949,7
+Precedents,Säynätsalo Town Hall,is located in,Location,Finland,8
+Precedents,Säynätsalo Town Hall,has Attribute,Attribute,courtyard,7
+Precedents,Säynätsalo Town Hall,has Attribute,Attribute,open circulatory space,10
+Precedents,Säynätsalo Town Hall,has Attribute,Attribute,public plaza,13
+Precedents,Säynätsalo Town Hall,has Attribute,Attribute,clerestory windows,13
+Precedents,Säynätsalo Town Hall,has Attribute,Attribute,monumental,8
+Precedents,Säynätsalo Town Hall,has Principle,Principle,study in opposition,13
+Precedents,Säynätsalo Town Hall,has Principle,Principle,contrast,11
+Precedents,Darwin D. Martin House and Estate,serves as a,Programme,Residence,10
+Precedents,Darwin D. Martin House and Estate,is designed by,Architect,Frank Lloyd Wright,8
+Precedents,Darwin D. Martin House and Estate,has Style,Style,Priairie,7
+Precedents,Darwin D. Martin House and Estate,is built using,Materials,Brick,14
+Precedents,Darwin D. Martin House and Estate,is built using,Materials,Wood,11
+Precedents,Darwin D. Martin House and Estate,relates to,Sub-Aspects,Ordering Principle: Axis,7
+Precedents,Darwin D. Martin House and Estate,is designed/built in ,Year,1905,14
+Precedents,Darwin D. Martin House and Estate,is located in ,Location,United States,11
+Precedents,Darwin D. Martin House and Estate,has Attribute,Attribute,art glass,6
+Precedents,Darwin D. Martin House and Estate,has Attribute,Attribute,composition,5
+Precedents,Biomuseo,serves as a,Programme,Museum,10
+Precedents,Biomuseo,is built using,Materials,Steel,6
+Precedents,Biomuseo,is built using,Materials,Concrete,14
+Precedents,Biomuseo,is designed by,Architect,Frank Gehry,8
+Precedents,Biomuseo,has Style,Style,Contemporary,11
+Precedents,Biomuseo,relates to,Sub-Aspects,Operation: Fold,11
+Precedents,Biomuseo,is designed/built in ,Year,2014,14
+Precedents,Biomuseo,is located in,Location,Panama,10
+Precedents,Biomuseo,has Attribute,Attribute,atrium,9
+Precedents,Biomuseo,has Attribute,Attribute,canopy,14
+Precedents,Falling Water,serves as a,Programme,Residence,14
+Precedents,Falling Water,has Style,Style,Modern,7
+Precedents,Falling Water,relates to,Sub-Aspects,Site: Topography,15
+Precedents,Falling Water,has Attribute,Attribute,sculptural,15
+Precedents,Falling Water,has Attribute,Attribute,waterfall,8
+Precedents,Falling Water,has Attribute,Attribute,narrow passageways,5
+Precedents,Falling Water,has Attribute,Attribute,cantilevered terraces,10
+Precedents,Falling Water,has Attribute,Attribute,corner window detail,15
+Precedents,Falling Water,has Attribute,Attribute,nature,11
+Precedents,Falling Water,has Principle,Principle,integration,7
+Precedents,Falling Water,has Principle,Principle,compression and expansion,7
+Precedents,Falling Water,has Principle,Principle,harmony,14
+Precedents,Falling Water,is designed/built in,Year,1939,10
+Precedents,Falling Water,is located in ,Location,United States,6
+Precedents,Falling Water,is built using,Materials,Concrete,6
+Precedents,Falling Water,is built using,Materials,Brick,13
+Precedents,Falling Water,is designed by,Architect,Frank Lloyd Wright,8
+Precedents,Investcorp Building,is designed by,Architect,Zaha Hadid Architects,6
+Precedents,Investcorp Building,is designed/built in,Year,2015,13
+Precedents,Investcorp Building,is located in,Location,England,11
+Precedents,Investcorp Building,has Style,Style,Deconstructivism,12
+Precedents,Investcorp Building,serves as a ,Programme,Education Facility,12
+Precedents,Investcorp Building,serves as a ,Programme,Library,5
+Precedents,Investcorp Building,is built using,Material,Steel,10
+Precedents,Investcorp Building,has Attribute,Attribute,expansion,9
+Precedents,Investcorp Building,has Attribute,Attribute,site response,11
+Precedents,Investcorp Building,has Principle,Principle,connectivity,15
+Precedents,Investcorp Building,relates to,Sub-Aspects,Structure: Steel Frame,13
+Precedents,Jewel Changi Airport,is designed by,Architect,Safdie Architects,15
+Precedents,Jewel Changi Airport,is designed/built in,Year,2019,10
+Precedents,Jewel Changi Airport,is located in,Location,Singapore,14
+Precedents,Jewel Changi Airport,has Style,Style,Neo-futurism,5
+Precedents,Jewel Changi Airport,serves as a ,Programme,Airport,8
+Precedents,Jewel Changi Airport,serves as a ,Programme,Retail,14
+Precedents,Jewel Changi Airport,is built using,Material,Glass,13
+Precedents,Jewel Changi Airport,has Attribute,Attribute,marketplace,8
+Precedents,Jewel Changi Airport,has Attribute,Attribute,pedestrian bridges,5
+Precedents,Jewel Changi Airport,has Attribute,Attribute,visual connections,9
+Precedents,Jewel Changi Airport,has Attribute,Attribute,terraced indoor garden,6
+Precedents,Jewel Changi Airport,has Attribute,Attribute,spatial and interactive experiences,11
+Precedents,Jewel Changi Airport,has Attribute,Attribute,indoor waterfall,14
+Precedents,Jewel Changi Airport,has Attribute,Attribute,oculus,9
+Precedents,Jewel Changi Airport,has Attribute,Attribute,domed roof,5
+Precedents,Jewel Changi Airport,has Attribute,Attribute,vertical canyons,13
+Precedents,Jewel Changi Airport,has Attribute,Attribute,column-free spaces,8
+Precedents,Jewel Changi Airport,has Attribute,Attribute,glazing,8
+Precedents,Jewel Changi Airport,has Attribute,Attribute,suspended catenary glass-bottom bridge walk,6
+Precedents,Jewel Changi Airport,has Attribute,Attribute,"event plaza0.8676495661182175
+",5
+Precedents,Jewel Changi Airport,has Attribute,Attribute,connector,12
+Precedents,Jewel Changi Airport,has Attribute,Attribute,leisure,7
+Precedents,Jewel Changi Airport,has Attribute,Attribute,nature,14
+Precedents,Jewel Changi Airport,has Attribute,Attribute,Displacement Ventilation System,12
+Precedents,Jewel Changi Airport,has Principle,Principle,cardinal axes,8
+Precedents,Jewel Changi Airport,has Principle,Principle,evaporative cooling,6
+Precedents,Jewel Changi Airport,has Principle,Principle,static shading,9
+Precedents,Jewel Changi Airport,has Principle,Principle,dynamic shading,10
+Precedents,Jewel Changi Airport,relates to,Sub-Aspects,Structure: Grid-shell,10
+Precedents,Katsura Imperial Villa,is designed by,Architect,Edward Suzuki Associates,8
+Precedents,Katsura Imperial Villa,is designed/built in,Year,2010,15
+Precedents,Katsura Imperial Villa,is located in,Location,Japan,15
+Precedents,Katsura Imperial Villa,has Style,Style,"Zen buddhist, Shoin-zukuri",14
+Precedents,Katsura Imperial Villa,serves as a ,Programme,Residence,9
+Precedents,Katsura Imperial Villa,is built using,Material,Wood,11
+Precedents,Katsura Imperial Villa,is built using,Material,Glass,14
+Precedents,Katsura Imperial Villa,is built using,Material,Steel,15
+Precedents,Katsura Imperial Villa,has Attribute,Attribute,garden,14
+Precedents,Katsura Imperial Villa,has Attribute,Attribute,tea house,10
+Precedents,Katsura Imperial Villa,has Attribute,Attribute,raised floors,10
+Precedents,Katsura Imperial Villa,has Attribute,Attribute,cultural treasure,14
+Precedents,Katsura Imperial Villa,has Principle,Principle,zen buddism,14
+Precedents,Katsura Imperial Villa,relates to,Sub-Aspects,Ordering Principle: Repetition,11
+Precedents,Kaufmann House,is designed by,Architect,Richard Neutra,10
+Precedents,Kaufmann House,is designed/built in,Year,1947,12
+Precedents,Kaufmann House,is located in,Location,United States,12
+Precedents,Kaufmann House,has Style,Style,Modern,6
+Precedents,Kaufmann House,serves as a ,Programme,International,5
+Precedents,Kaufmann House,is built using,Material,Wood,6
+Precedents,Kaufmann House,is built using,Material,Stone,10
+Precedents,Kaufmann House,is built using,Material,Concrete,15
+Precedents,Kaufmann House,is built using,Material,Glass,14
+Precedents,Kaufmann House,is built using,Material,Steel,8
+Precedents,Kaufmann House,has Attribute,Attribute,swimming pool,8
+Precedents,Kaufmann House,has Attribute,Attribute,pinwheel,6
+Precedents,Kaufmann House,has Attribute,Attribute,20th Century,5
+Precedents,Kaufmann House,has Attribute,Attribute,family,7
+Precedents,Kaufmann House,has Principle,Principle,cardinal axes,9
+Precedents,Kaufmann House,has Principle,Principle,balance,9
+Precedents,Kaufmann House,relates to,Sub-Aspects,Site: Topography,12
+Precedents,Kaufmann House,relates to,Sub-Aspects,Spatial Organisations: Radial,11
+Precedents,Koshino House,is designed by,Architect,Tadao Ando Architect & Associates,13
+Precedents,Koshino House,is designed/built in,Year,1984,5
+Precedents,Koshino House,is located in,Location,Japan,14
+Precedents,Koshino House,has Style,Style,Contemporary,9
+Precedents,Koshino House,serves as a ,Programme,Residence,9
+Precedents,Koshino House,is built using,Material,Concrete,13
+Precedents,Koshino House,has Attribute,Attribute,park,7
+Precedents,Koshino House,has Attribute,Attribute,light and shadow,12
+Precedents,Koshino House,has Attribute,Attribute,concrete,10
+Precedents,Koshino House,has Attribute,Attribute,landscape,10
+Precedents,Koshino House,has Attribute,Attribute,ecosystem,12
+Precedents,Koshino House,has Attribute,Attribute,light,10
+Precedents,Koshino House,has Attribute,Attribute,light ornament,12
+Precedents,Koshino House,has Principle,Principle,parallel,9
+Precedents,Koshino House,has Principle,Principle,addition,9
+Precedents,Koshino House,relates to,Sub-Aspects,Ordering Principle: Datum,5
+Precedents,Palace of Assembly (Legislative Assembly Building),is designed by,Architect,Le Corbusier,6
+Precedents,Palace of Assembly (Legislative Assembly Building),is designed/built in,Year,1962,15
+Precedents,Palace of Assembly (Legislative Assembly Building),is located in,Location,India,9
+Precedents,Palace of Assembly (Legislative Assembly Building),has Style,Style,Modern,8
+Precedents,Palace of Assembly (Legislative Assembly Building),serves as a ,Programme,Civic Building,5
+Precedents,Palace of Assembly (Legislative Assembly Building),is built using,Material,Concrete,7
+Precedents,Palace of Assembly (Legislative Assembly Building),has Attribute,Attribute,open-plan,15
+Precedents,Palace of Assembly (Legislative Assembly Building),has Attribute,Attribute,free facade,9
+Precedents,Palace of Assembly (Legislative Assembly Building),has Attribute,Attribute,glazing,14
+Precedents,Palace of Assembly (Legislative Assembly Building),has Principle,Principle,grid,5
+Precedents,Palace of Assembly (Legislative Assembly Building),relates to,Sub-Aspects,Ordering Principle: Hierarchy,8
+Precedents,Palace of Assembly (Legislative Assembly Building),relates to,Sub-Aspects,Circulation: Radial,9
+Precedents,LEGO House,is designed by,Architect,Bjarke Ingels Group,12
+Precedents,LEGO House,is designed/built in,Year,2017,9
+Precedents,LEGO House,is located in,Location,Denmark,5
+Precedents,LEGO House,has Style,Style,Contemporary,12
+Precedents,LEGO House,serves as a ,Programme,Museum,9
+Precedents,LEGO House,is built using,Material,Concrete,11
+Precedents,LEGO House,has Attribute,Attribute,overlapping blocks,14
+Precedents,LEGO House,has Attribute,Attribute,urban cave,5
+Precedents,LEGO House,has Attribute,Attribute,wayfinding,6
+Precedents,LEGO House,has Attribute,Attribute,skylight,13
+Precedents,LEGO House,has Attribute,Attribute,360 panoramic views,8
+Precedents,LEGO House,has Attribute,Attribute,multi-purposed stairs,15
+Precedents,LEGO House,has Attribute,Attribute,scale,7
+Precedents,LEGO House,relates to,Sub-Aspects,Operation: Stack,10
+Precedents,Library of Mount Angel,is designed by,Architect,Alvar Aalto,14
+Precedents,Library of Mount Angel,is designed/built in,Year,1970,12
+Precedents,Library of Mount Angel,is located in,Location,United States,8
+Precedents,Library of Mount Angel,has Style,Style,Modern,14
+Precedents,Library of Mount Angel,serves as a ,Programme,Library,8
+Precedents,Library of Mount Angel,is built using,Material,Brick,8
+Precedents,Library of Mount Angel,is built using,Material,Steel,11
+Precedents,Library of Mount Angel,has Attribute,Attribute,courtyard,10
+Precedents,Library of Mount Angel,has Attribute,Attribute,inner facade,9
+Precedents,Library of Mount Angel,has Attribute,Attribute,natural light,12
+Precedents,Library of Mount Angel,has Attribute,Attribute,atrium,14
+Precedents,Library of Mount Angel,has Attribute,Attribute,circulation,10
+Precedents,Library of Mount Angel,has Attribute,Attribute,brick,11
+Precedents,Library of Mount Angel,has Attribute,Attribute,arc,5
+Precedents,Library of Mount Angel,has Attribute,Attribute,light,5
+Precedents,Library of Mount Angel,has Principle,Principle,structural expression,14
+Precedents,Library of Mount Angel,relates to,Sub-Aspects,Ordering Principle: Transformation,5
+Precedents,Maison des Fondateurs,is designed by,Architect,Bjarke Ingels Group,6
+Precedents,Maison des Fondateurs,is designed/built in,Year,2014,10
+Precedents,Maison des Fondateurs,is located in,Location,Switzerland,6
+Precedents,Maison des Fondateurs,has Style,Style,Deconstructivism,13
+Precedents,Maison des Fondateurs,has Style,Style,Modern,8
+Precedents,Maison des Fondateurs,serves as a ,Programme,Museum,9
+Precedents,Maison des Fondateurs,serves as a ,Programme,Workspace,5
+Precedents,Maison des Fondateurs,is built using,Material,Glass,11
+Precedents,Maison des Fondateurs,is built using,Material,Steel,10
+Precedents,Maison des Fondateurs,has Attribute,Attribute,spiral,6
+Precedents,Maison des Fondateurs,has Attribute,Attribute,galleries,8
+Precedents,Maison des Fondateurs,has Attribute,Attribute,linear,5
+Precedents,Maison des Fondateurs,has Attribute,Attribute,workshops,13
+Precedents,Maison des Fondateurs,has Attribute,Attribute,undulating,14
+Precedents,Maison des Fondateurs,has Attribute,Attribute,light,11
+Precedents,Maison des Fondateurs,has Attribute,Attribute,structural glass,9
+Precedents,Maison des Fondateurs,has Attribute,Attribute,views,13
+Precedents,Maison des Fondateurs,has Principle,Principle,narrative,14
+Precedents,Maison des Fondateurs,has Principle,Principle,integration,14
+Precedents,Maison des Fondateurs,relates to,Sub-Aspects,Circulation: Ramp,14
+Precedents,Marika-Alderton House,is designed by,Architect,OZ. E. TECTURE,14
+Precedents,Marika-Alderton House,is designed/built in,Year,1994,8
+Precedents,Marika-Alderton House,is located in,Location,Australia,5
+Precedents,Marika-Alderton House,has Style,Style,Vernacular,8
+Precedents,Marika-Alderton House,serves as a ,Programme,Residence,8
+Precedents,Marika-Alderton House,is built using,Material,Wood,7
+Precedents,Marika-Alderton House,is built using,Material,Steel,13
+Precedents,Marika-Alderton House,has Attribute,Attribute,pitched roof,10
+Precedents,Marika-Alderton House,has Attribute,Attribute,operable skin,9
+Precedents,Marika-Alderton House,has Attribute,Attribute,screen,8
+Precedents,Marika-Alderton House,has Attribute,Attribute,shade,6
+Precedents,Marika-Alderton House,has Attribute,Attribute,void,6
+Precedents,Marika-Alderton House,has Attribute,Attribute,Monsoonal Tropical Climate,5
+Precedents,Marika-Alderton House,has Attribute,Attribute,flooding,12
+Precedents,Marika-Alderton House,has Attribute,Attribute,cyclones,13
+Precedents,Marika-Alderton House,has Attribute,Attribute,wet summers,10
+Precedents,Marika-Alderton House,has Attribute,Attribute,dry winters,8
+Precedents,Marika-Alderton House,has Attribute,Attribute,beach,8
+Precedents,Marika-Alderton House,has Attribute,Attribute,creek,6
+Precedents,Marika-Alderton House,has Attribute,Attribute,lagoon,12
+Precedents,Marika-Alderton House,has Principle,Principle,climatic,15
+Precedents,Marika-Alderton House,has Principle,Principle,cultural,9
+Precedents,Marika-Alderton House,has Principle,Principle,elemental,10
+Precedents,Marika-Alderton House,has Principle,Principle,visual privacy,11
+Precedents,Marika-Alderton House,relates to,Sub-Aspects,Site: Climate,11
+Precedents,Marques de Riscal Hotel,is designed by,Architect,Frank Gehry,14
+Precedents,Marques de Riscal Hotel,is designed/built in,Year,2006,12
+Precedents,Marques de Riscal Hotel,is located in,Location,Spain,15
+Precedents,Marques de Riscal Hotel,has Style,Style,Contemporary,13
+Precedents,Marques de Riscal Hotel,serves as a ,Programme,Residence,11
+Precedents,Marques de Riscal Hotel,is built using,Material,Titanium,15
+Precedents,Marques de Riscal Hotel,is built using,Material,Steel,6
+Precedents,Marques de Riscal Hotel,has Attribute,Attribute,flowing shapes,12
+Precedents,Marques de Riscal Hotel,relates to,Sub-Aspects,Operation: Curve,8
+Precedents,Monticello ,is designed by,Architect,Thomas Jefferson,11
+Precedents,Monticello ,is designed/built in,Year,1772,5
+Precedents,Monticello ,is located in,Location,United States,15
+Precedents,Monticello ,has Style,Style,Neoclassicism,13
+Precedents,Monticello ,serves as a ,Programme,Library,6
+Precedents,Monticello ,is built using,Material,Wood,14
+Precedents,Monticello ,is built using,Material,Brick,11
+Precedents,Monticello ,has Attribute,Attribute,Doric entablature,10
+Precedents,Monticello ,has Attribute,Attribute,extended portico,13
+Precedents,Monticello ,has Attribute,Attribute,Doric columns,11
+Precedents,Monticello ,has Attribute,Attribute,triangle pediment,12
+Precedents,Monticello ,has Attribute,Attribute,octagonal drum,6
+Precedents,Monticello ,has Attribute,Attribute,shallow dome,13
+Precedents,Monticello ,has Attribute,Attribute,wooden balustrade,15
+Precedents,Monticello ,has Principle,Principle,verticality,15
+Precedents,Monticello ,relates to,Sub-Aspects,Ordering Principle: Symmetry,8
+Precedents,Montreal Biosphere,is designed by,Architect,Buckminster Fuller,11
+Precedents,Montreal Biosphere,is designed/built in,Year,1967,10
+Precedents,Montreal Biosphere,is located in,Location,Canada,15
+Precedents,Montreal Biosphere,has Style,Style,Futuristic,12
+Precedents,Montreal Biosphere,serves as a ,Programme,Museum,5
+Precedents,Montreal Biosphere,is built using,Material,Acrylic,11
+Precedents,Montreal Biosphere,is built using,Material,Steel,8
+Precedents,Montreal Biosphere,has Attribute,Attribute,membrane,12
+Precedents,Montreal Biosphere,has Principle,Principle,fragmentation,5
+Precedents,Montreal Biosphere,has Principle,Principle,nakedness,15
+Precedents,Montreal Biosphere,relates to,Sub-Aspects,Structure: Space Frame,12
+Precedents,MoPOP,is designed by,Architect, Frank Gehry,5
+Precedents,MoPOP,is designed/built in,Year,2000,5
+Precedents,MoPOP,is located in,Location,United States,10
+Precedents,MoPOP,has Style,Style,Deconstructivism,13
+Precedents,MoPOP,serves as a ,Programme,Museum,6
+Precedents,MoPOP,is built using,Material,Aluminium,6
+Precedents,MoPOP,is built using,Material,Steel,10
+Precedents,MoPOP,has Attribute,Attribute,textures,6
+Precedents,MoPOP,has Attribute,Attribute,colours,9
+Precedents,MoPOP,has Attribute,Attribute,energy,12
+Precedents,MoPOP,has Principle,Principle,fluidity,15
+Precedents,MoPOP,has Principle,Principle,evolving,6
+Precedents,MoPOP,relates to,Sub-Aspects,Operation: Crumple,7
+Precedents,Munich Olympic Stadium,is designed by,Architect,Behnisch & Partner,7
+Precedents,Munich Olympic Stadium,is designed by,Architect,Frei Otto,10
+Precedents,Munich Olympic Stadium,is designed by,Architect,"Leonhardt, Andrä und Partner",12
+Precedents,Munich Olympic Stadium,is designed/built in,Year,1972,15
+Precedents,Munich Olympic Stadium,is located in,Location,Germany,10
+Precedents,Munich Olympic Stadium,has Style,Style,Modern,12
+Precedents,Munich Olympic Stadium,serves as a ,Programme,Stadium,5
+Precedents,Munich Olympic Stadium,is built using,Material,Acrylic,9
+Precedents,Munich Olympic Stadium,is built using,Material,Steel,14
+Precedents,Munich Olympic Stadium,has Attribute,Attribute,canopy,5
+Precedents,Munich Olympic Stadium,has Attribute,Attribute,lightweight,15
+Precedents,Munich Olympic Stadium,relates to,Sub-Aspects,Structure: Tensile,13
+Precedents,Munich Olympic Stadium,relates to,Sub-Aspects,Operation: Pull,7
+Precedents,National Aquatics Center Beijing,is designed by,Architect,PTW Architects,9
+Precedents,National Aquatics Center Beijing,is designed by,Architect,CSCEC & DESIGN,9
+Precedents,National Aquatics Center Beijing,is designed/built in,Year,2007,6
+Precedents,National Aquatics Center Beijing,is located in,Location,China,6
+Precedents,National Aquatics Center Beijing,has Style,Style,Deconstructivism,14
+Precedents,National Aquatics Center Beijing,serves as a ,Programme,Stadium,13
+Precedents,National Aquatics Center Beijing,is built using,Material,ETFE,15
+Precedents,National Aquatics Center Beijing,has Attribute,Attribute,green,5
+Precedents,National Aquatics Center Beijing,has Attribute,Attribute,slicing,12
+Precedents,National Aquatics Center Beijing,has Principle,Principle,irregular,8
+Precedents,National Aquatics Center Beijing,has Principle,Principle,organic,6
+Precedents,National Aquatics Center Beijing,relates to,Sub-Aspects,Structure: Space Frame,11
+Precedents,National Aquatics Center Beijing,relates to,Sub-Aspects,Operation: Inflate,6
+Precedents,Villa Savoye,is designed by,Architect,Le Corbusier,5
+Precedents,Villa Savoye,is designed/built in,Year,1929,6
+Precedents,Villa Savoye,is located in,Location,France,7
+Precedents,Villa Savoye,has Style,Style,International,5
+Precedents,Villa Savoye,serves as a ,Programme,Residence,10
+Precedents,Villa Savoye,is built using,Material,Glass,15
+Precedents,Villa Savoye,is built using,Material,Concrete,9
+Precedents,Villa Savoye,is built using,Material,Steel,7
+Precedents,Villa Savoye,has Attribute,Attribute,open-plan,11
+Precedents,Villa Savoye,has Attribute,Attribute,architectural promenade,14
+Precedents,Villa Savoye,has Attribute,Attribute,adjoined units,11
+Precedents,Villa Savoye,has Attribute,Attribute,structural fields,14
+Precedents,Villa Savoye,has Attribute,Attribute,squares,6
+Precedents,Villa Savoye,has Attribute,Attribute,four-square,13
+Precedents,Villa Savoye,has Attribute,Attribute,meander,14
+Precedents,Villa Savoye,has Principle,Principle,mechanistic,13
+Precedents,Villa Savoye,has Principle,Principle,machine for living,5
+Precedents,Villa Savoye,has Principle,Principle,efficiency,8
+Precedents,Villa Savoye,has Principle,Principle,Five Points of Architecture,6
+Precedents,Villa Savoye,has Principle,Principle,minimalist,10
+Precedents,Villa Savoye,has Principle,Principle,spatial interplay,10
+Precedents,Villa Savoye,has Principle,Principle,open-plan,9
+Precedents,Villa Savoye,has Principle,Principle,monumentality,7
+Precedents,Villa Savoye,has Principle,Principle,proportional plan to section relationships,14
+Precedents,Villa Savoye,has Principle,Principle,subtraction,5
+Precedents,Villa Savoye,has Principle,Principle,bounded frame,9
+Precedents,Villa Savoye,has Principle,Principle,positive-negative balance line,11
+Precedents,Villa Savoye,relates to,Sub-Aspects,Structure: Columns,9
+Precedents,National Museum of Qatar,is designed by,Architect,Jean Nouvel,6
+Precedents,National Museum of Qatar,is designed/built in,Year,2019,14
+Precedents,National Museum of Qatar,is located in,Location,Qatar,12
+Precedents,National Museum of Qatar,has Style,Style,Contemporary,14
+Precedents,National Museum of Qatar,serves as a ,Programme,Museum,6
+Precedents,National Museum of Qatar,is built using,Material,Concrete,14
+Precedents,National Museum of Qatar,is built using,Material,Stone,13
+Precedents,National Museum of Qatar,has Attribute,Attribute,undulating,12
+Precedents,National Museum of Qatar,has Principle,Principle,interlocking,7
+Precedents,National Museum of Qatar,has Principle,Principle,monochromatic,13
+Precedents,National Museum of Qatar,has Principle,Principle,neutral,5
+Precedents,National Museum of Qatar,relates to,Sub-Aspects,Operation: Slot,10
+Precedents,New Museum,is designed by,Architect,SANAA,5
+Precedents,New Museum,is designed/built in,Year,1977,15
+Precedents,New Museum,is located in,Location,United States,10
+Precedents,New Museum,has Style,Style,Modern,10
+Precedents,New Museum,serves as a ,Programme,Museum,6
+Precedents,New Museum,is built using,Material,Aluminium,7
+Precedents,New Museum,has Attribute,Attribute,cubes,12
+Precedents,New Museum,has Attribute,Attribute,natural light,10
+Precedents,New Museum,has Attribute,Attribute,clean,8
+Precedents,New Museum,has Attribute,Attribute,light,5
+Precedents,New Museum,has Attribute,Attribute,elegant,6
+Precedents,New Museum,has Attribute,Attribute,semi-transparent,9
+Precedents,New Museum,has Principle,Principle,dynamicity,9
+Precedents,New Museum,has Principle,Principle,shifting,12
+Precedents,New Museum,relates to,Sub-Aspects,Circulation: Vertical,10
+Precedents,Phillips Exeter Academy Library,is designed by,Architect,Louis Kahn,8
+Precedents,Phillips Exeter Academy Library,is designed/built in,Year,1972,10
+Precedents,Phillips Exeter Academy Library,is located in,Location,United States,12
+Precedents,Phillips Exeter Academy Library,has Style,Style,Modern,9
+Precedents,Phillips Exeter Academy Library,serves as a ,Programme,Library,8
+Precedents,Phillips Exeter Academy Library,is built using,Material,Wood,12
+Precedents,Phillips Exeter Academy Library,is built using,Material,Concrete,15
+Precedents,Phillips Exeter Academy Library,is built using,Material,Brick,9
+Precedents,Phillips Exeter Academy Library,is built using,Material,Stone,6
+Precedents,Phillips Exeter Academy Library,is built using,Material,Slate,9
+Precedents,Phillips Exeter Academy Library,has Attribute,Attribute,natural light,9
+Precedents,Phillips Exeter Academy Library,has Attribute,Attribute,terrace,6
+Precedents,Phillips Exeter Academy Library,has Attribute,Attribute,clerestory windows,11
+Precedents,Phillips Exeter Academy Library,has Principle,Principle,punctured,13
+Precedents,Phillips Exeter Academy Library,relates to,Sub-Aspects,Circulation: Radial,9
+Precedents,Poly Grand Theater,is designed by,Architect,Tadao Ando Architect & Associates,7
+Precedents,Poly Grand Theater,is designed/built in,Year,2014,9
+Precedents,Poly Grand Theater,is located in,Location,China,14
+Precedents,Poly Grand Theater,has Style,Style,Contemporary,15
+Precedents,Poly Grand Theater,serves as a ,Programme,Concert Hall / Theatre,12
+Precedents,Poly Grand Theater,is built using,Material,Concrete,12
+Precedents,Poly Grand Theater,is built using,Material,Glass,11
+Precedents,Poly Grand Theater,is built using,Material,Aluminium,5
+Precedents,Poly Grand Theater,has Attribute,Attribute,openings,10
+Precedents,Poly Grand Theater,has Principle,Principle,playfulness,10
+Precedents,Poly Grand Theater,has Principle,Principle,carved,8
+Precedents,Poly Grand Theater,has Principle,Principle,contrast,5
+Precedents,Poly Grand Theater,has Principle,Principle,serenity,5
+Precedents,Poly Grand Theater,relates to,Sub-Aspects,Operation: Subtract,6
+Precedents,Punta Della Dogana,is designed by,Architect,Tadao Ando Architect & Associates,10
+Precedents,Punta Della Dogana,is designed/built in,Year,2009,6
+Precedents,Punta Della Dogana,is located in,Location,Italy,11
+Precedents,Punta Della Dogana,has Style,Style,Critical regionalism,5
+Precedents,Punta Della Dogana,has Style,Style,Baroque,14
+Precedents,Punta Della Dogana,serves as a ,Programme,Museum,14
+Precedents,Punta Della Dogana,is built using,Material,Brick,14
+Precedents,Punta Della Dogana,is built using,Material,Plaster,6
+Precedents,Punta Della Dogana,is built using,Material,Wood,8
+Precedents,Punta Della Dogana,has Attribute,Attribute,protective shell,15
+Precedents,Punta Della Dogana,has Attribute,Attribute,skylight,8
+Precedents,Punta Della Dogana,has Attribute,Attribute,natural light,11
+Precedents,Punta Della Dogana,has Principle,Principle,simple,10
+Precedents,Punta Della Dogana,has Principle,Principle,rational,6
+Precedents,Punta Della Dogana,has Principle,Principle,emblematic,13
+Precedents,Punta Della Dogana,has Principle,Principle,conservation,9
+Precedents,Punta Della Dogana,has Principle,Principle,juxtaposition,9
+Precedents,Punta Della Dogana,relates to,Sub-Aspects,"Site: Heritage0.3755126495926344
+",7
+Precedents,Rietveld-Schroeder House,is designed by,Architect,Gerrit Rietveld,8
+Precedents,Rietveld-Schroeder House,is designed/built in,Year,1925,13
+Precedents,Rietveld-Schroeder House,is located in,Location,The Netherlands,7
+Precedents,Rietveld-Schroeder House,has Style,Style,Modern,7
+Precedents,Rietveld-Schroeder House,serves as a ,Programme,Residence,15
+Precedents,Rietveld-Schroeder House,is built using,Material,Concrete,5
+Precedents,Rietveld-Schroeder House,is built using,Material,Steel,15
+Precedents,Rietveld-Schroeder House,is built using,Material,Brick,7
+Precedents,Rietveld-Schroeder House,is built using,Material,Plaster,12
+Precedents,Rietveld-Schroeder House,is built using,Material,Wood,7
+Precedents,Rietveld-Schroeder House,has Attribute,Attribute,flexible interior spaces,7
+Precedents,Rietveld-Schroeder House,has Attribute,Attribute,portable partitions,12
+Precedents,Rietveld-Schroeder House,has Attribute,Attribute,collapsable walls,14
+Precedents,Rietveld-Schroeder House,has Attribute,Attribute,central staircase,8
+Precedents,Rietveld-Schroeder House,has Attribute,Attribute,paint,5
+Precedents,Rietveld-Schroeder House,has Principle,Principle,visionary,7
+Precedents,Rietveld-Schroeder House,has Principle,Principle,eccentric,6
+Precedents,Rietveld-Schroeder House,has Principle,Principle,planar,10
+Precedents,Rietveld-Schroeder House,has Principle,Principle,De Stijl,8
+Precedents,Rietveld-Schroeder House,has Principle,Principle,primary colours,10
+Precedents,Rietveld-Schroeder House,has Principle,Principle,transformable,11
+Precedents,Rietveld-Schroeder House,relates to,Sub-Aspects,Operation: Add,5
+Precedents,Sainsbury Center,is designed by,Architect,Foster + Partners,8
+Precedents,Sainsbury Center,is designed/built in,Year,1978,11
+Precedents,Sainsbury Center,is located in,Location,England,7
+Precedents,Sainsbury Center,has Style,Style,High-tech,11
+Precedents,Sainsbury Center,serves as a ,Programme,Gallery,6
+Precedents,Sainsbury Center,serves as a ,Programme,Museum,14
+Precedents,Sainsbury Center,is built using,Material,Steel,12
+Precedents,Sainsbury Center,is built using,Material,Aluminium,11
+Precedents,Sainsbury Center,has Attribute,Attribute,flexible enclosure,14
+Precedents,Sainsbury Center,has Attribute,Attribute,universal space,15
+Precedents,Sainsbury Center,has Attribute,Attribute,free-flowing spaces,5
+Precedents,Sainsbury Center,has Attribute,Attribute,open-plan,7
+Precedents,Sainsbury Center,has Attribute,Attribute,portable partitions,8
+Precedents,Sainsbury Center,has Attribute,Attribute,double skin,5
+Precedents,Sainsbury Center,has Attribute,Attribute,prefabricated,11
+Precedents,Sainsbury Center,has Principle,Principle,open-plan,5
+Precedents,Sainsbury Center,has Principle,Principle,uncluttered,12
+Precedents,Sainsbury Center,relates to,Sub-Aspects,Structure: Space Frame,5
+Precedents,Samuel Freeman House,is designed by,Architect,Frank Lloyd Wright,9
+Precedents,Samuel Freeman House,is designed/built in,Year,1922,13
+Precedents,Samuel Freeman House,is located in,Location,United States,7
+Precedents,Samuel Freeman House,has Style,Style,Modern ,7
+Precedents,Samuel Freeman House,serves as a ,Programme,Residence,13
+Precedents,Samuel Freeman House,is built using,Material,Wood,11
+Precedents,Samuel Freeman House,is built using,Material,Concrete,9
+Precedents,Samuel Freeman House,is built using,Material,Textile-block,15
+Precedents,Samuel Freeman House,has Attribute,Attribute,textile-block,5
+Precedents,Samuel Freeman House,relates to,Sub-Aspects,Ordering Principle: Transformation,11
+Precedents,Sharp Centre for Design,is designed by,Architect,Alsop Architects,7
+Precedents,Sharp Centre for Design,is designed/built in,Year,2014,15
+Precedents,Sharp Centre for Design,is located in,Location,Canada,14
+Precedents,Sharp Centre for Design,has Style,Style,Contemporary,7
+Precedents,Sharp Centre for Design,serves as a ,Programme,Education Institution,6
+Precedents,Sharp Centre for Design,is built using,Material,Steel,7
+Precedents,Sharp Centre for Design,is built using,Material,Aluminium,14
+Precedents,Sharp Centre for Design,has Attribute,Attribute,public plaza,6
+Precedents,Sharp Centre for Design,has Attribute,Attribute,box,11
+Precedents,Sharp Centre for Design,has Principle,Principle,suspended,11
+Precedents,Sharp Centre for Design,has Principle,Principle,conventional,8
+Precedents,Sharp Centre for Design,has Principle,Principle,views,6
+Precedents,Sharp Centre for Design,relates to,Sub-Aspects,Operation: Add,15
+Precedents,Sher-e-bangla Nagar,is designed by,Architect,Louis Kahn,7
+Precedents,Sher-e-bangla Nagar,is designed/built in,Year,1963,6
+Precedents,Sher-e-bangla Nagar,is located in,Location,Bangladesh,7
+Precedents,Sher-e-bangla Nagar,has Style,Style,International,12
+Precedents,Sher-e-bangla Nagar,has Style,Style,Postmodern,13
+Precedents,Sher-e-bangla Nagar,has Style,Style,Critical Regionalism,9
+Precedents,Sher-e-bangla Nagar,serves as a ,Programme,Civic Building,12
+Precedents,Sher-e-bangla Nagar,is built using,Material,Concrete,13
+Precedents,Sher-e-bangla Nagar,has Attribute,Attribute,perforations ,11
+Precedents,Sher-e-bangla Nagar,has Attribute,Attribute,cavernous,9
+Precedents,Sher-e-bangla Nagar,has Principle,Principle,miniature city,8
+Precedents,Sher-e-bangla Nagar,has Principle,Principle,rectilinear,9
+Precedents,Sher-e-bangla Nagar,has Principle,Principle,diagonal,8
+Precedents,Sher-e-bangla Nagar,has Principle,Principle,orthogonal,13
+Precedents,Sher-e-bangla Nagar,has Principle,Principle,concavity,11
+Precedents,Sher-e-bangla Nagar,has Principle,Principle,convexity,5
+Precedents,Sher-e-bangla Nagar,relates to,Sub-Aspects,Circulation: Radial,8
+Precedents,"Social Science Research Centre, Germany",is designed by,Architect,James Stirling,12
+Precedents,"Social Science Research Centre, Germany",is designed by,Architect,Michael Wilford,12
+Precedents,"Social Science Research Centre, Germany",is designed/built in,Year,1988,15
+Precedents,"Social Science Research Centre, Germany",is located in,Location,Germany,6
+Precedents,"Social Science Research Centre, Germany",has Style,Style,Postmodern,13
+Precedents,"Social Science Research Centre, Germany",serves as a ,Programme,Institute,9
+Precedents,"Social Science Research Centre, Germany",is built using,Material,Concrete,14
+Precedents,"Social Science Research Centre, Germany",is built using,Material,Ceramic,11
+Precedents,"Social Science Research Centre, Germany",has Attribute,Attribute,non-bureaucratic ,14
+Precedents,"Social Science Research Centre, Germany",has Attribute,Attribute,hexgonal campanile,9
+Precedents,"Social Science Research Centre, Germany",has Attribute,Attribute,axes,15
+Precedents,"Social Science Research Centre, Germany",has Principle,Principle,friendly,11
+Precedents,"Social Science Research Centre, Germany",relates to,Sub-Aspects,Ordering Principle: Datum,8
+Precedents,Starhill Gallery,is designed by,Architect,Spark Architects,15
+Precedents,Starhill Gallery,is designed/built in,Year,1996,13
+Precedents,Starhill Gallery,is located in,Location,Malaysia,5
+Precedents,Starhill Gallery,has Style,Style,Modern,14
+Precedents,Starhill Gallery,serves as a ,Programme,Retail,15
+Precedents,Starhill Gallery,is built using,Material,Glass,8
+Precedents,Starhill Gallery,is built using,Material,Steel,8
+Precedents,Starhill Gallery,is built using,Material,Stone,10
+Precedents,Starhill Gallery,has Attribute,Attribute,visual connections,14
+Precedents,Starhill Gallery,has Principle,Principle,fractured,7
+Precedents,Starhill Gallery,has Principle,Principle,solidity,8
+Precedents,Starhill Gallery,has Principle,Principle,transparency,12
+Precedents,Starhill Gallery,has Principle,Principle,cutting-edge,6
+Precedents,Starhill Gallery,has Principle,Principle,visual connections,14
+Precedents,Starhill Gallery,relates to,Sub-Aspects,Operation: Chamfer,5
+Precedents,Stockholm Public Library,is designed by,Architect,Gunnar Asplund,9
+Precedents,Stockholm Public Library,is designed/built in,Year,1928,12
+Precedents,Stockholm Public Library,is located in,Location,Sweden,10
+Precedents,Stockholm Public Library,has Style,Style,Nordic Classicism,8
+Precedents,Stockholm Public Library,serves as a ,Programme,Library,5
+Precedents,Stockholm Public Library,is built using,Material,Wood,11
+Precedents,Stockholm Public Library,is built using,Material,Stone,13
+Precedents,Stockholm Public Library,is built using,Material,Concrete,11
+Precedents,Stockholm Public Library,has Attribute,Attribute,simple geometry,5
+Precedents,Stockholm Public Library,has Attribute,Attribute,cavernous,9
+Precedents,Stockholm Public Library,has Attribute,Attribute,terrace,5
+Precedents,Stockholm Public Library,has Principle,Principle,classical,8
+Precedents,Stockholm Public Library,has Principle,Principle,monumentality,13
+Precedents,Stockholm Public Library,has Principle,Principle,cavernous,9
+Precedents,Stockholm Public Library,relates to,Sub-Aspects,Spatial Organisations: Centralized,6
+Precedents,Swatch Headquarters,is designed by,Architect,Shigeru Ban,15
+Precedents,Swatch Headquarters,is designed/built in,Year,2019,15
+Precedents,Swatch Headquarters,is located in,Location,Switzerland,9
+Precedents,Swatch Headquarters,has Style,Style,Contemporary,12
+Precedents,Swatch Headquarters,serves as a ,Programme,Commercial,9
+Precedents,Swatch Headquarters,is built using,Material,Wood,10
+Precedents,Swatch Headquarters,is built using,Material,Glass,8
+Precedents,Swatch Headquarters,has Attribute,Attribute,double-curved,13
+Precedents,Swatch Headquarters,has Attribute,Attribute,snaking,11
+Precedents,Swatch Headquarters,has Attribute,Attribute,colonnade,13
+Precedents,Swatch Headquarters,has Principle,Principle,playfulness,15
+Precedents,Swatch Headquarters,has Principle,Principle,environmentally friendly,5
+Precedents,Swatch Headquarters,relates to,Sub-Aspects,Structure: Gridshell,5
+Precedents,T3,is designed by,Architect,Michael Green Architecture,10
+Precedents,T3,is designed by,Architect,DLR Group,5
+Precedents,T3,is designed/built in,Year,2016,15
+Precedents,T3,is located in,Location,United States,6
+Precedents,T3,has Style,Style,Contemporary,14
+Precedents,T3,serves as a ,Programme,Commercial,12
+Precedents,T3,serves as a ,Programme,Retail,6
+Precedents,T3,is built using,Material,Wood,6
+Precedents,T3,is built using,Material,Steel,8
+Precedents,T3,has Attribute,Attribute,warm,6
+Precedents,T3,has Attribute,Attribute,inviting,9
+Precedents,T3,has Attribute,Attribute,lumber,15
+Precedents,T3,has Attribute,Attribute,pioneer,8
+Precedents,T3,has Principle,Principle,modern interpretation,13
+Precedents,T3,has Principle,Principle,state of the art,8
+Precedents,T3,has Principle,Principle,environmental performance,6
+Precedents,T3,has Principle,Principle,technical capability,10
+Precedents,T3,relates to,Sub-Aspects,Structure: Timber Frame,10
+Precedents,Tetris Hotel,is designed by,Architect,MVRDV,7
+Precedents,Tetris Hotel,is designed/built in,Year,2017,15
+Precedents,Tetris Hotel,is located in,Location,The Netherlands,14
+Precedents,Tetris Hotel,has Style,Style,Contemporary,9
+Precedents,Tetris Hotel,serves as a ,Programme,Residence,7
+Precedents,Tetris Hotel,serves as a ,Programme,Installation,12
+Precedents,Tetris Hotel,is built using,Material,Plastic,13
+Precedents,Tetris Hotel,has Attribute,Attribute,multicolored,11
+Precedents,Tetris Hotel,has Principle,Principle,futuristic,15
+Precedents,Tetris Hotel,has Principle,Principle,flexibility,10
+Precedents,Tetris Hotel,relates to,Sub-Aspects,Operation: Modular,11
+Precedents,The Centre Pompidou,is designed by,Architect,Richard Rogers,8
+Precedents,The Centre Pompidou,is designed by,Architect,Renzo Piano,15
+Precedents,The Centre Pompidou,is designed/built in,Year,1977,7
+Precedents,The Centre Pompidou,is located in,Location,France,7
+Precedents,The Centre Pompidou,has Style,Style,Contemporary,10
+Precedents,The Centre Pompidou,serves as a ,Programme,Museum,10
+Precedents,The Centre Pompidou,is built using,Material,Steel,11
+Precedents,The Centre Pompidou,is built using,Material,Concrete,6
+Precedents,The Centre Pompidou,has Attribute,Attribute,inside out,10
+Precedents,The Centre Pompidou,has Attribute,Attribute,radical,5
+Precedents,The Centre Pompidou,has Principle,Principle,constructivism,6
+Precedents,The Centre Pompidou,has Principle,Principle,high-tech,6
+Precedents,The Centre Pompidou,has Principle,Principle,engulf,10
+Precedents,The Centre Pompidou,has Principle,Principle,distinguish,10
+Precedents,The Centre Pompidou,relates to,Sub-Aspects,Circulation: Vertical,10
+Precedents,The Interlace,is designed by,Architect,Ole Scheeren,10
+Precedents,The Interlace,is designed/built in,Year,2013,11
+Precedents,The Interlace,is located in,Location,Singapore,14
+Precedents,The Interlace,has Style,Style,Contemporary,7
+Precedents,The Interlace,has Style,Style,Neo-futurism,14
+Precedents,The Interlace,serves as a ,Programme,Residence,8
+Precedents,The Interlace,is built using,Material,Concrete,14
+Precedents,The Interlace,has Attribute,Attribute,elevated,6
+Precedents,The Interlace,has Attribute,Attribute,outdoor spaces,6
+Precedents,The Interlace,has Attribute,Attribute,landscaping,12
+Precedents,The Interlace,has Attribute,Attribute,green belt,7
+Precedents,The Interlace,has Attribute,Attribute,courtyard,13
+Precedents,The Interlace,has Attribute,Attribute,terrace,7
+Precedents,The Interlace,has Attribute,Attribute,landmark,5
+Precedents,The Interlace,has Principle,Principle,hexagonal,11
+Precedents,The Interlace,has Principle,Principle,interlocking,5
+Precedents,The Interlace,has Principle,Principle,cascading,12
+Precedents,The Interlace,has Principle,Principle,interwoven,12
+Precedents,The Interlace,has Principle,Principle,interconnectivity,7
+Precedents,The Interlace,relates to,Sub-Aspects,Operation: Stack,11
+Precedents,The Millennium Dome,is designed by,Architect,Richard Rogers (RSHP),15
+Precedents,The Millennium Dome,is designed/built in,Year,1999,6
+Precedents,The Millennium Dome,is located in,Location,England,11
+Precedents,The Millennium Dome,has Style,Style,Contemporary,10
+Precedents,The Millennium Dome,has Style,Style,High-tech,12
+Precedents,The Millennium Dome,serves as a ,Programme,Pavilion,9
+Precedents,The Millennium Dome,is built using,Material,PTFE,5
+Precedents,The Millennium Dome,is built using,Material,Steel,6
+Precedents,The Millennium Dome,has Attribute,Attribute,canopy,12
+Precedents,The Millennium Dome,has Attribute,Attribute,flexible space,5
+Precedents,The Millennium Dome,has Attribute,Attribute,dome,6
+Precedents,The Millennium Dome,has Attribute,Attribute,steel masts,12
+Precedents,The Millennium Dome,has Attribute,Attribute,high-tensile cables,13
+Precedents,The Millennium Dome,has Principle,Principle,circular,6
+Precedents,The Millennium Dome,has Principle,Principle,naturally-ventilated,13
+Precedents,The Millennium Dome,has Principle,Principle,color-coded,13
+Precedents,The Millennium Dome,has Principle,Principle,adaptable,6
+Precedents,The Millennium Dome,relates to,Sub-Aspects,Operation: Pull,13
+Precedents,UFA Cinema,is designed by,Architect,COOP HIMMELB(L)AU,6
+Precedents,UFA Cinema,is designed/built in,Year,1998,12
+Precedents,UFA Cinema,is located in,Location,Germany,13
+Precedents,UFA Cinema,has Style,Style,Contemporary,5
+Precedents,UFA Cinema,serves as a ,Programme,Concert Hall / Theatre,9
+Precedents,UFA Cinema,is built using,Material,Glass,10
+Precedents,UFA Cinema,is built using,Material,Concrete,9
+Precedents,UFA Cinema,is built using,Material,Steel,5
+Precedents,UFA Cinema,has Attribute,Attribute,inside out,7
+Precedents,UFA Cinema,has Attribute,Attribute,circulation,6
+Precedents,UFA Cinema,has Attribute,Attribute,views,14
+Precedents,UFA Cinema,has Attribute,Attribute,lively,5
+Precedents,UFA Cinema,has Principle,Principle,interconnectivity,11
+Precedents,UFA Cinema,has Principle,Principle,multi-purposed,10
+Precedents,UFA Cinema,relates to,Sub-Aspects,Operation: Chamfer,8
+Precedents,UMass Design Building,is designed by,Architect,Leers Weinzapfel Associates,7
+Precedents,UMass Design Building,is designed/built in,Year,2017,12
+Precedents,UMass Design Building,is located in,Location,United States,5
+Precedents,UMass Design Building,has Style,Style,Contemporary,14
+Precedents,UMass Design Building,serves as a ,Programme,Education Institute,6
+Precedents,UMass Design Building,is built using,Material,Wood,15
+Precedents,UMass Design Building,is built using,Material,Steel,7
+Precedents,UMass Design Building,is built using,Material,Glass,14
+Precedents,UMass Design Building,has Attribute,Attribute,dynamic spaces,12
+Precedents,UMass Design Building,has Attribute,Attribute,skylit central commons,15
+Precedents,UMass Design Building,has Attribute,Attribute,green roof,11
+Precedents,UMass Design Building,has Attribute,Attribute,glazing,5
+Precedents,UMass Design Building,has Attribute,Attribute,skylight,8
+Precedents,UMass Design Building,has Attribute,Attribute,wood-concrete composite,15
+Precedents,UMass Design Building,has Attribute,Attribute,storm water management,5
+Precedents,UMass Design Building,relates to,Sub-Aspects,Structure: Timber Frame,13
+Precedents,Unité d'Habitation,is designed by,Architect,Le Corbusier,6
+Precedents,Unité d'Habitation,is designed/built in,Year,1952,11
+Precedents,Unité d'Habitation,is located in,Location,France,15
+Precedents,Unité d'Habitation,has Style,Style,Modern,14
+Precedents,Unité d'Habitation,serves as a ,Programme,Residence,9
+Precedents,Unité d'Habitation,is built using,Material,Concrete,10
+Precedents,Unité d'Habitation,has Attribute,Attribute,floating,6
+Precedents,Unité d'Habitation,has Attribute,Attribute,double height,5
+Precedents,Unité d'Habitation,has Attribute,Attribute,interlocking,8
+Precedents,Unité d'Habitation,has Attribute,Attribute,"cross ventilation0.17774025030031315
+",11
+Precedents,Unité d'Habitation,has Attribute,Attribute,open volume,10
+Precedents,Unité d'Habitation,has Principle,Principle,multi-family,7
+Precedents,Unité d'Habitation,has Principle,Principle,communal,13
+Precedents,Unité d'Habitation,has Principle,Principle,vertical garden city,12
+Precedents,Unité d'Habitation,has Principle,Principle,functionally optimised,12
+Precedents,Unité d'Habitation,has Principle,Principle,mechanistic,8
+Precedents,Unité d'Habitation,has Principle,Principle,Five Points of Architecture,8
+Precedents,Unité d'Habitation,has Principle,Principle,brutalist,7
+Precedents,Unité d'Habitation,has Principle,Principle,modular,5
+Precedents,Unité d'Habitation,relates to,Sub-Aspects,Spatial Organisations: Linear,11
+Precedents,V&A Spiral,is designed by,Architect,Studio Libeskind,15
+Precedents,V&A Spiral,is designed/built in,Year,1996,6
+Precedents,V&A Spiral,is located in,Location,England,12
+Precedents,V&A Spiral,has Style,Style,Contemporary,13
+Precedents,V&A Spiral,serves as a ,Programme,Museum,10
+Precedents,V&A Spiral,has Attribute,Attribute,column-free spaces,6
+Precedents,V&A Spiral,has Attribute,Attribute,cantilever,9
+Precedents,V&A Spiral,has Attribute,Attribute,undulating,12
+Precedents,V&A Spiral,has Principle,Principle,catalysmic disruption,15
+Precedents,V&A Spiral,has Principle,Principle,rupture,5
+Precedents,V&A Spiral,has Principle,Principle,anachronistic,11
+Precedents,V&A Spiral,has Principle,Principle,interpenetrate,10
+Precedents,V&A Spiral,has Principle,Principle,folded,8
+Precedents,V&A Spiral,has Principle,Principle,misalign,6
+Precedents,V&A Spiral,has Principle,Principle,interlocking,14
+Precedents,V&A Spiral,relates to,Sub-Aspects,Operation: Fold,13
+Precedents,"Venice Hospital, Le Corbusier",is designed by,Architect,Le Corbusier,9
+Precedents,"Venice Hospital, Le Corbusier",is designed/built in,Year,1965,8
+Precedents,"Venice Hospital, Le Corbusier",is located in,Location,Italy,6
+Precedents,"Venice Hospital, Le Corbusier",has Style,Style,Modern,12
+Precedents,"Venice Hospital, Le Corbusier",serves as a ,Programme,Hospital,12
+Precedents,"Venice Hospital, Le Corbusier",has Attribute,Attribute,modular,7
+Precedents,"Venice Hospital, Le Corbusier",has Attribute,Attribute,courtyard,7
+Precedents,"Venice Hospital, Le Corbusier",has Attribute,Attribute,clerestory windows,9
+Precedents,"Venice Hospital, Le Corbusier",has Principle,Principle,machine for living,12
+Precedents,"Venice Hospital, Le Corbusier",has Principle,Principle,seamless,15
+Precedents,"Venice Hospital, Le Corbusier",has Principle,Principle,interconnectivity,13
+Precedents,"Venice Hospital, Le Corbusier",has Principle,Principle,clustered,12
+Precedents,"Venice Hospital, Le Corbusier",relates to,Sub-Aspects,Spatial Organisation: Grid,9
+Precedents,Philips Pavilion,is designed by,Architect,Le Corbusier,9
+Precedents,Philips Pavilion,is designed by,Architect,Iannis Xenakis,12
+Precedents,Philips Pavilion,is designed/built in,Year,1958,9
+Precedents,Philips Pavilion,is located in,Location,Belgium,5
+Precedents,Philips Pavilion,has Style,Style,Modern,7
+Precedents,Philips Pavilion,serves as a ,Programme,Pavilion,11
+Precedents,Philips Pavilion,is built using,Material,Concrete,9
+Precedents,Philips Pavilion,has Attribute,Attribute,sound,9
+Precedents,Philips Pavilion,has Attribute,Attribute,harmony,12
+Precedents,Philips Pavilion,has Attribute,Attribute,expo,10
+Precedents,Philips Pavilion,has Attribute,Attribute,electronic,10
+Precedents,Philips Pavilion,has Principle,Principle,gastalt,14
+Precedents,Philips Pavilion,has Principle,Principle,temporary,8
+Precedents,Philips Pavilion,has Principle,Principle,utopia,14
+Precedents,Philips Pavilion,has Principle,Principle,tension,14
+Precedents,Philips Pavilion,has Principle,Principle,algorithm,13
+Precedents,Philips Pavilion,relates to,Sub-Aspects,Structure: Tensile,6
+Precedents,Villa Shodhan,is designed by,Architect,Le Corbusier,13
+Precedents,Villa Shodhan,is designed/built in,Year,1954,14
+Precedents,Villa Shodhan,is located in,Location,India,7
+Precedents,Villa Shodhan,has Style,Style,Modern,10
+Precedents,Villa Shodhan,serves as a ,Programme,Residence,6
+Precedents,Villa Shodhan,is built using,Material,Concrete,9
+Precedents,Villa Shodhan,has Attribute,Attribute,clerestory windows,7
+Precedents,Villa Shodhan,has Principle,Principle,porous,9
+Precedents,Villa Shodhan,has Principle,Principle,rectilinear,15
+Precedents,Villa Shodhan,relates to,Sub-Aspects,Spatial Organisation: Grid,12
+Precedents,Vitra Fire Station,is designed by,Architect,Zaha Hadid Architects,6
+Precedents,Vitra Fire Station,is designed/built in,Year,1993,8
+Precedents,Vitra Fire Station,is located in,Location,Germany,8
+Precedents,Vitra Fire Station,has Style,Style,Contemporary,8
+Precedents,Vitra Fire Station,serves as a ,Programme,Museum,5
+Precedents,Vitra Fire Station,serves as a ,Programme,Civic Building,14
+Precedents,Vitra Fire Station,is built using,Material,Concrete,9
+Precedents,Vitra Fire Station,is built using,Material,Glass ,10
+Precedents,Vitra Fire Station,is built using,Material,Steel,8
+Precedents,Vitra Fire Station,has Attribute,Attribute,layered,10
+Precedents,Vitra Fire Station,has Attribute,Attribute,prismatic,11
+Precedents,Vitra Fire Station,has Attribute,Attribute,stretching,5
+Precedents,Vitra Fire Station,has Attribute,Attribute,screen,9
+Precedents,Vitra Fire Station,has Principle,Principle,linear,5
+Precedents,Vitra Fire Station,has Principle,Principle,hermetic,9
+Precedents,Vitra Fire Station,has Principle,Principle,frozen,5
+Precedents,Vitra Fire Station,has Principle,Principle,sharpness,6
+Precedents,Vitra Fire Station,relates to,Sub-Aspects,Operation: Slot,7
+Precedents,Vuoksenniska Church,is designed by,Architect,Alvar Aalto,8
+Precedents,Vuoksenniska Church,is designed/built in,Year,1958,6
+Precedents,Vuoksenniska Church,is located in,Location,Finland,13
+Precedents,Vuoksenniska Church,has Style,Style,Modern,7
+Precedents,Vuoksenniska Church,serves as a ,Programme,Religious,9
+Precedents,Vuoksenniska Church,is built using,Material,Brick,9
+Precedents,Vuoksenniska Church,is built using,Material,Concrete,12
+Precedents,Vuoksenniska Church,is built using,Material,Copper,6
+Precedents,Vuoksenniska Church,has Attribute,Attribute,motifs,5
+Precedents,Vuoksenniska Church,has Attribute,Attribute,moveable walls,8
+Precedents,Vuoksenniska Church,has Attribute,Attribute,triangular,9
+Precedents,Vuoksenniska Church,has Principle,Principle,social,6
+Precedents,Vuoksenniska Church,has Principle,Principle,asymmetrical,11
+Precedents,Vuoksenniska Church,relates to,Sub-Aspects,Circulation: Linear,13
+Precedents,W. A. Glasner House,is designed by,Architect,Frank Lloyd Wright,11
+Precedents,W. A. Glasner House,is designed/built in,Year,1905,10
+Precedents,W. A. Glasner House,is located in,Location,United States,9
+Precedents,W. A. Glasner House,has Style,Style,Prairie School,15
+Precedents,W. A. Glasner House,serves as a ,Programme,Residence,11
+Precedents,W. A. Glasner House,is built using,Material,Wood,11
+Precedents,W. A. Glasner House,is built using,Material,Glass,6
+Precedents,W. A. Glasner House,has Attribute,Attribute,octagonal,7
+Precedents,W. A. Glasner House,has Principle,Principle,asymmetrical,15
+Precedents,W. A. Glasner House,relates to,Sub-Aspects,Ordering Principles: Axis,8
+Precedents,Walt Disney Concert Hall,is designed by,Architect,Frank Gehry,13
+Precedents,Walt Disney Concert Hall,is designed/built in,Year,2003,5
+Precedents,Walt Disney Concert Hall,is located in,Location,United States,15
+Precedents,Walt Disney Concert Hall,has Style,Style,Deconstructivism,12
+Precedents,Walt Disney Concert Hall,serves as a ,Programme,Concert Hall / Theatre,5
+Precedents,Walt Disney Concert Hall,is built using,Material,Steel,5
+Precedents,Walt Disney Concert Hall,is built using,Material,Glass,7
+Precedents,Walt Disney Concert Hall,has Attribute,Attribute,skylight,13
+Precedents,Walt Disney Concert Hall,has Attribute,Attribute,undulating,13
+Precedents,Walt Disney Concert Hall,has Attribute,Attribute,angled,6
+Precedents,Walt Disney Concert Hall,has Principle,Principle,curvilinear,6
+Precedents,Walt Disney Concert Hall,has Principle,Principle,asymmetrical,5
+Precedents,Walt Disney Concert Hall,relates to,Sub-Aspects,Structure: Steel Frame,6
+Precedents,Wingspread,is designed by,Architect,Frank Lloyd Wright,6
+Precedents,Wingspread,is designed/built in,Year,1937,14
+Precedents,Wingspread,is located in,Location,United States,7
+Precedents,Wingspread,has Style,Style,Prairie School,14
+Precedents,Wingspread,serves as a ,Programme,Residence,11
+Precedents,Wingspread,is built using,Material,Brick,5
+Precedents,Wingspread,has Attribute,Attribute,skylight,6
+Precedents,Wingspread,relates to,Sub-Aspects,Spatial Organisations: Radial,9
+Sub-Aspects,Operation: Subtract,is part of,Aspects,Operation,7
+Sub-Aspects,Operation: Curve,is part of,Aspects,Operation,13
+Sub-Aspects,Structure: Space Frame,is part of,Aspects,Structure,15
+Sub-Aspects,Ordering Principle: Symmetry,is part of,Aspects,Ordering Principle,12
+Sub-Aspects,Spatial Organisation: Clustered,is part of,Aspects,Spatial Organisation,10
+Sub-Aspects,Structure: Tensile,is part of,Aspects,Structure,6
+Sub-Aspects,Operation: Modular,is part of,Aspects,Operation,6
+Sub-Aspects,Site: Climate,is part of,Aspects,Site,9
+Sub-Aspects,Operation: Crumple,is part of,Aspects,Operation,12
+Sub-Aspects,Operation: Fold,is part of,Aspects,Operation,14
+Sub-Aspects,Circulation: Linear,is part of,Aspects,Circulation,9
+Sub-Aspects,Circulation: Ramp,is part of,Aspects,Circulation,12
+Sub-Aspects,Site: Topography,is part of,Aspects,Site,7
+Sub-Aspects,Spatial Organisation: Linear,is part of,Aspects,Spatial Organisation,15
+Sub-Aspects,Operation: Inflate,is part of,Aspects,Operation,12
+Sub-Aspects,Ordering Principle: Axis,is part of,Aspects,Ordering Principle,9
+Sub-Aspects,Ordering Principle: Repetition,is part of,Aspects,Ordering Principle,10
+Sub-Aspects,Ordering Principle: Hierachy,is part of,Aspects,Ordering Principle,12
+Sub-Aspects,Spatial Organisation: Centralised,is part of,Aspects,Spatial Organisation,14
+Sub-Aspects,Site: Heritage,is part of,Aspects,Site,9
+Year,1656,is part of,Style,Baroque,1
+Year,1772,is part of,Style,Baroque,1
+Year,1656,is part of,Style,Rococo,1
+Year,1772,is part of,Style,Rococo,1
+Year,1772,is part of,Style,Neoclassicism,1
+Year,1905,is part of,Style,Neoclassicism,1
+Year,1909,is part of,Style,Neoclassicism,1
+Year,1922,is part of,Style,Neoclassicism,1
+Year,1925,is part of,Style,Neoclassicism,1
+Year,1905,is part of,Style,Art Nouveau,1
+Year,1909,is part of,Style,Art Nouveau,1
+Year,1905,is part of,Style,Beaux Arts,1
+Year,1909,is part of,Style,Beaux Arts,1
+Year,1922,is part of,Style,Beaux Arts,1
+Year,1925,is part of,Style,Beaux Arts,1
+Year,1905,is part of,Style,Neo-Gothic,1
+Year,1909,is part of,Style,Neo-Gothic,1
+Year,1922,is part of,Style,Neo-Gothic,1
+Year,1925,is part of,Style,Neo-Gothic,1
+Year,1928,is part of,Style,Neo-Gothic,1
+Year,1929,is part of,Style,Neo-Gothic,1
+Year,1925,is part of,Style,Art Deco,1
+Year,1928,is part of,Style,Art Deco,1
+Year,1929,is part of,Style,Art Deco,1
+Year,1937,is part of,Style,Art Deco,1
+Year,1905,is part of,Style,Modern,1
+Year,1909,is part of,Style,Modern,1
+Year,1922,is part of,Style,Modern,1
+Year,1925,is part of,Style,Modern,1
+Year,1928,is part of,Style,Modern,1
+Year,1929,is part of,Style,Modern,1
+Year,1937,is part of,Style,Modern,1
+Year,1939,is part of,Style,Modern,1
+Year,1947,is part of,Style,Modern,1
+Year,1948,is part of,Style,Modern,1
+Year,1949,is part of,Style,Modern,1
+Year,1952,is part of,Style,Modern,1
+Year,1954,is part of,Style,Modern,1
+Year,1958,is part of,Style,Modern,1
+Year,1962,is part of,Style,Modern,1
+Year,1963,is part of,Style,Modern,1
+Year,1965,is part of,Style,Modern,1
+Year,1967,is part of,Style,Modern,1
+Year,1970,is part of,Style,Modern,1
+Year,1972,is part of,Style,Modern,1
+Year,1973,is part of,Style,Modern,1
+Year,1977,is part of,Style,Modern,1
+Year,1978,is part of,Style,Modern,1
+Year,1984,is part of,Style,Modern,1
+Year,1986,is part of,Style,Modern,1
+Year,1987,is part of,Style,Modern,1
+Year,1988,is part of,Style,Modern,1
+Year,1993,is part of,Style,Modern,1
+Year,1994,is part of,Style,Modern,1
+Year,1995,is part of,Style,Modern,1
+Year,1996,is part of,Style,Modern,1
+Year,1997,is part of,Style,Modern,1
+Year,1998,is part of,Style,Modern,1
+Year,1999,is part of,Style,Modern,1
+Year,2000,is part of,Style,Modern,1
+Year,2003,is part of,Style,Modern,1
+Year,2006,is part of,Style,Modern,1
+Year,2007,is part of,Style,Modern,1
+Year,2009,is part of,Style,Modern,1
+Year,2010,is part of,Style,Modern,1
+Year,2013,is part of,Style,Modern,1
+Year,2014,is part of,Style,Modern,1
+Year,2015,is part of,Style,Modern,1
+Year,2016,is part of,Style,Modern,1
+Year,2017,is part of,Style,Modern,1
+Year,2019,is part of,Style,Modern,1
+Year,1972,is part of,Style,Postmodern,1
+Year,1973,is part of,Style,Postmodern,1
+Year,1977,is part of,Style,Postmodern,1
+Year,1978,is part of,Style,Postmodern,1
+Year,1984,is part of,Style,Postmodern,1
+Year,1986,is part of,Style,Postmodern,1
+Year,1987,is part of,Style,Postmodern,1
+Year,1988,is part of,Style,Postmodern,1
+Year,1993,is part of,Style,Postmodern,1
+Year,1994,is part of,Style,Postmodern,1
+Year,1995,is part of,Style,Postmodern,1
+Year,1996,is part of,Style,Postmodern,1
+Year,1997,is part of,Style,Postmodern,1
+Year,1998,is part of,Style,Postmodern,1
+Year,1999,is part of,Style,Postmodern,1
+Year,2000,is part of,Style,Postmodern,1
+Year,2003,is part of,Style,Postmodern,1
+Year,2006,is part of,Style,Postmodern,1
+Year,2007,is part of,Style,Postmodern,1
+Year,2009,is part of,Style,Postmodern,1
+Year,2010,is part of,Style,Postmodern,1
+Year,2013,is part of,Style,Postmodern,1
+Year,2014,is part of,Style,Postmodern,1
+Year,2015,is part of,Style,Postmodern,1
+Year,2016,is part of,Style,Postmodern,1
+Year,2017,is part of,Style,Postmodern,1
+Year,2019,is part of,Style,Postmodern,1
+Year,1997,is part of,Style,Neo-futurism,1
+Year,1998,is part of,Style,Neo-futurism,1
+Year,1999,is part of,Style,Neo-futurism,1
+Year,2000,is part of,Style,Neo-futurism,1
+Year,2003,is part of,Style,Neo-futurism,1
+Year,2006,is part of,Style,Neo-futurism,1
+Year,2007,is part of,Style,Neo-futurism,1
+Year,2009,is part of,Style,Neo-futurism,1
+Year,2010,is part of,Style,Neo-futurism,1
+Year,2013,is part of,Style,Neo-futurism,1
+Year,2014,is part of,Style,Neo-futurism,1
+Year,2015,is part of,Style,Neo-futurism,1
+Year,2016,is part of,Style,Neo-futurism,1
+Year,2017,is part of,Style,Neo-futurism,1
+Year,2019,is part of,Style,Neo-futurism,1

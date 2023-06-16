@@ -1,0 +1,63 @@
+.heading {
+    font-size: 2rem;
+    /* display: flex; */
+    flex-direction: column;
+    margin-left: 5%;
+    position:absolute;
+}
+
+    .title{
+        font-size: 3rem;
+        font-weight: bold;
+        line-height: normal;
+    }
+
+.HomeKG{
+    position: absolute;
+    left: 25%;
+    top: 15%;
+}
+
+.fade{
+    position: absolute;
+    opacity: 100%;
+    width:100vw;
+    height:100vh;
+    background-image: linear-gradient(white, #ffffff60,#ffffff00,white);
+}
+
+.button {
+    background-color: #fcb646;
+    width: 11em;
+    height: 2em;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+@media (max-width:400px) {
+    .heading{
+        font-size: 1rem;
+    }
+    .button{
+        font-size: 1.2rem;
+        width: 11em;
+        height: 2em;
+        border-radius: 12px;
+    }
+
+    .HomeKG{
+        position:absolute;
+        left: 0%;
+        top: 10%;
+    
+    }
+
+    .title{
+        font-size: 2rem;
+        font-weight: bold;
+        line-height: normal;
+    }
+}

@@ -1,0 +1,656 @@
+﻿type,Name
+Architect,Steven Holl Architects
+Architect,Hunter Point Library
+Architect,Zaha Hadid Architects
+Architect,Antoine le Pautre
+Architect,Greene and Greene
+Architect,Curtis Fentress
+Architect,Tay Kheng Soon
+Architect,Frank Lloyd Wright
+Architect,Frank Gehry
+Architect,Carlo Scarpa
+Architect,Tadao Ando Architect & Associates
+Architect,Arata Isozaki
+Architect,Le Corbusier
+Architect,Alvar Aalto
+Architect,Safdie Architects
+Architect,Edward Suzuki Associates
+Architect,Richard Neutra
+Architect,Bjarke Ingels Group
+Architect,OZ. E. TECTURE
+Architect,Thomas Jefferson
+Architect,Buckminster Fuller
+Architect,Behnisch & Partner
+Architect,Frei Otto
+Architect,"Leonhardt, Andrä und Partner"
+Architect,PTW Architects
+Architect,CSCEC & DESIGN
+Architect,Jean Nouvel
+Architect,SANAA
+Architect,Louis Kahn
+Architect,Gerrit Rietveld
+Architect,Foster + Partners
+Architect,Alsop Architects
+Architect,James Stirling
+Architect,Michael Wilford
+Architect,Spark Architects
+Architect,Gunnar Asplund
+Architect,Shigeru Ban
+Architect,Michael Green Architecture
+Architect,DLR Group
+Architect,MVRDV
+Architect,Richard Rogers
+Architect,Renzo Piano
+Architect,Ole Scheeren
+Architect,Richard Rogers (RSHP)
+Architect,COOP HIMMELB(L)AU
+Architect,Leers Weinzapfel Associates
+Architect,Studio Libeskind
+Architect,Iannis Xenakis
+Aspects,Structure
+Aspects,Circulation
+Aspects,Spatial Organisation
+Aspects,Operation
+Aspects,Site
+Aspects,Ordering Principle
+Attribute,"""Bilbao Effect"""
+Attribute,20th Century
+Attribute,360 panoramic views
+Attribute,active gathering spaces
+Attribute,adjoined units
+Attribute,arc
+Attribute,architectural promenade
+Attribute,art glass
+Attribute,aspiring
+Attribute,asymmetrical
+Attribute,asymmetrical site
+Attribute,atrium
+Attribute,axes
+Attribute,baroque
+Attribute,beach
+Attribute,blurring
+Attribute,box
+Attribute,brick
+Attribute,canopy
+Attribute,cargo containers
+Attribute,cavernous
+Attribute,central staircase
+Attribute,circular
+Attribute,circulation
+Attribute,clean
+Attribute,clerestory windows
+Attribute,collapsable walls
+Attribute,colonnade
+Attribute,colours
+Attribute,column-free spaces
+Attribute,compact plan
+Attribute,composition
+Attribute,concrete
+Attribute,concrete structure
+Attribute,connector
+Attribute,contours
+Attribute,courtyard
+Attribute,craftsmenship
+Attribute,creek
+Attribute,cross ventilation
+Attribute,cubes
+Attribute,cultural treasure
+Attribute,curtain-wall
+Attribute,curves
+Attribute,cyclones
+Attribute,daylight
+Attribute,detail
+Attribute,Displacement Ventilation System
+Attribute,dome
+Attribute,domed roof
+Attribute,Doric columns
+Attribute,Doric entablature
+Attribute,double skin
+Attribute,double-curved
+Attribute,dry winters
+Attribute,dynamic spaces
+Attribute,ecosystem
+Attribute,edifice
+Attribute,elegant
+Attribute,elevated
+Attribute,enclosure
+Attribute,energy
+Attribute,"event plaza
+"
+Attribute,expansion
+Attribute,extended portico
+Attribute,fabric roof
+Attribute,family
+Attribute,flexible enclosure
+Attribute,flexible interior spaces
+Attribute,flexible space
+Attribute,flooding
+Attribute,flowing shapes
+Attribute,folds
+Attribute,four-square
+Attribute,free facade
+Attribute,free plan
+Attribute,free-flowing spaces
+Attribute,free-form structure
+Attribute,french baroque
+Attribute,galleries
+Attribute,garden
+Attribute,glazing
+Attribute,green
+Attribute,green belt
+Attribute,green roof
+Attribute,hexgonal campanile
+Attribute,high-tensile cables
+Attribute,horizontal
+Attribute,iconic
+Attribute,indoor waterfall
+Attribute,inflatable
+Attribute,inflections
+Attribute,inner facade
+Attribute,inside out
+Attribute,interlocking squares
+Attribute,intimate reading spaces
+Attribute,inviting
+Attribute,Japanese
+Attribute,lagoon
+Attribute,landmark
+Attribute,landscape
+Attribute,landscaping
+Attribute,leisure
+Attribute,light
+Attribute,light and shadow
+Attribute,light ornament
+Attribute,lightweight
+Attribute,linear
+Attribute,lively
+Attribute,long and narrow
+Attribute,lumber
+Attribute,marketplace
+Attribute,meander
+Attribute,membrane
+Attribute,metallic 
+Attribute,mezzanine
+Attribute,mobile
+Attribute,modular
+Attribute,modular facade
+Attribute,Monsoonal Tropical Climate
+Attribute,monumental
+Attribute,motion
+Attribute,movement
+Attribute,multi-level interior spaces
+Attribute,multi-purposed stairs
+Attribute,multicolored
+Attribute,natural light
+Attribute,nature
+Attribute,non-bureaucratic 
+Attribute,octagonal drum
+Attribute,oculus
+Attribute,open circulatory space
+Attribute,open-plan
+Attribute,openings
+Attribute,operable skin
+Attribute,orb
+Attribute,outdoor spaces
+Attribute,overlapping blocks
+Attribute,paint
+Attribute,parallel
+Attribute,park
+Attribute,pedestrian bridges
+Attribute,perforations 
+Attribute,pinwheel
+Attribute,pioneer
+Attribute,pitched roof
+Attribute,porch
+Attribute,portable partitions
+Attribute,prefabricated
+Attribute,projections
+Attribute,protective shell
+Attribute,public plaza
+Attribute,punctured
+Attribute,radical
+Attribute,raised floors
+Attribute,ramp
+Attribute,recesses
+Attribute,scale
+Attribute,screen
+Attribute,sculpted cuts
+Attribute,sculptural
+Attribute,semi-transparent
+Attribute,shade
+Attribute,shallow dome
+Attribute,simple geometry
+Attribute,single-loaded
+Attribute,sinuous
+Attribute,site response
+Attribute,skylight
+Attribute,skylit central commons
+Attribute,slicing
+Attribute,snaking
+Attribute,social spaces
+Attribute,spatial and interactive experiences
+Attribute,spiral
+Attribute,squares
+Attribute,static
+Attribute,steel masts
+Attribute,stone
+Attribute,storm water management
+Attribute,structural fields
+Attribute,structural glass
+Attribute,suspended catenary glass-bottom bridge walk
+Attribute,swimming pool
+Attribute,tea house
+Attribute,teamed
+Attribute,terrace
+Attribute,terraced indoor garden
+Attribute,textile-block
+Attribute,textures
+Attribute,topography
+Attribute,transformation
+Attribute,transitionary space
+Attribute,triangle pediment
+Attribute,uncluttered
+Attribute,undulating
+Attribute,universal space
+Attribute,urban cave
+Attribute,vertical canyons
+Attribute,vertical counterpoint
+Attribute,views
+Attribute,visual connections
+Attribute,void
+Attribute,warm
+Attribute,wayfinding
+Attribute,wet summers
+Attribute,wood-concrete composite
+Attribute,wooden balustrade
+Attribute,workshops
+Attribute,floating
+Attribute,double height
+Attribute,interlocking
+Attribute,open volume
+Attribute,cantilever
+Attribute,sound
+Attribute,harmony
+Attribute,expo
+Attribute,electronic
+Attribute,layered
+Attribute,prismatic
+Attribute,stretching
+Attribute,motifs
+Attribute,moveable walls
+Attribute,triangular
+Attribute,octagonal
+Attribute,angled
+Location,Belgium
+Location,Sweden
+Location,Malaysia
+Location,Bangladesh
+Location,The Netherlands
+Location,Qatar
+Location,China
+Location,Germany
+Location,Canada
+Location,Denmark
+Location,Finland
+Location,France
+Location,Azerbaijan
+Location,Japan
+Location,United States
+Location,Panama
+Location,Spain
+Location,India
+Location,Italy
+Location,England
+Location,Switzerland
+Location,Singapore
+Location,Australia
+Materials,Stone
+Materials,PTFE
+Materials,ETFE
+Materials,Wood
+Materials,Brick
+Materials,Concrete
+Materials,Plaster
+Materials,Ceramic
+Materials,Glass
+Materials,Steel
+Materials,Limestone
+Materials,Titanium
+Materials,Plastic
+Materials,Textile-block
+Materials,Slate
+Materials,Glass Fiber Reinforced Polyester
+Materials,Acrylic
+Materials,Aluminium
+Precedents,Investcorp Building
+Precedents,Hunter Point Library
+Precedents,Heydar Aliyev Centre
+Precedents,Jewel Changi Airport
+Precedents,Katsura Imperial Villa
+Precedents,Kaufmann House
+Precedents,Koshino House
+Precedents,Palace of Assembly (Legislative Assembly Building)
+Precedents,LEGO House
+Precedents,Library of Mount Angel
+Precedents,Maison des Fondateurs
+Precedents,Marika-Alderton House
+Precedents,Marques de Riscal Hotel
+Precedents,Monticello 
+Precedents,Montreal Biosphere
+Precedents,MoPOP
+Precedents,Munich Olympic Stadium
+Precedents,National Aquatics Center Beijing
+Precedents,Villa Savoye
+Precedents,National Museum of Qatar
+Precedents,New Museum
+Precedents,Phillips Exeter Academy Library
+Precedents,Poly Grand Theater
+Precedents,Punta Della Dogana
+Precedents,Rietveld-Schroeder House
+Precedents,Sainsbury Center
+Precedents,Samuel Freeman House
+Precedents,Sharp Centre for Design
+Precedents,Sher-e-bangla Nagar
+Precedents,"Social Science Research Centre, Germany"
+Precedents,Starhill Gallery
+Precedents,Stockholm Public Library
+Precedents,Swatch Headquarters
+Precedents,T3
+Precedents,Tetris Hotel
+Precedents,The Centre Pompidou
+Precedents,The Interlace
+Precedents,The Millennium Dome
+Precedents,UFA Cinema
+Precedents,UMass Design Building
+Precedents,Unité d'Habitation
+Precedents,V&A Spiral
+Precedents,"Venice Hospital, Le Corbusier"
+Precedents,Philips Pavilion
+Precedents,Villa Shodhan
+Precedents,Vitra Fire Station
+Precedents,Vuoksenniska Church
+Precedents,W. A. Glasner House
+Precedents,Walt Disney Concert Hall
+Precedents,Wingspread
+Precedents,Hotel de Beauvais
+Precedents,Gamble House
+Precedents,Friedman House
+Precedents,Freitag Tower
+Precedents,Denver Airport
+Precedents,Chee Tong Temple
+Precedents,Capitol Complex
+Precedents,Ark Nova
+Precedents,Baker House
+Precedents,Castelvecchio Museum
+Precedents,Bilbao Guggenheim Museum
+Precedents,Chapel on Mt. Rokko
+Precedents,Säynätsalo Town Hall
+Precedents,Darwin D. Martin House and Estate
+Precedents,Biomuseo
+Precedents,Falling Water
+Principle,adaptable
+Principle,adaptive resuse
+Principle,addition
+Principle,algorithm
+Principle,American Craftsmen
+Principle,anachronistic
+Principle,anthropomorphic plan
+Principle,balance
+Principle,bounded frame
+Principle,Broadacre City
+Principle,brutalist
+Principle,cardinal axes
+Principle,carved
+Principle,cascading
+Principle,catalysmic disruption
+Principle,cavernous
+Principle,circular
+Principle,classical
+Principle,climatic
+Principle,clustered
+Principle,color-coded
+Principle,communal
+Principle,concavity
+Principle,connectivity
+Principle,conservation
+Principle,constructivism
+Principle,contrast
+Principle,conventional
+Principle,convexity
+Principle,cultural
+Principle,cutting-edge
+Principle,De Stijl
+Principle,diagonal
+Principle,distinguish
+Principle,dynamic shading
+Principle,dynamicity
+Principle,eccentric
+Principle,efficiency
+Principle,elemental
+Principle,emblematic
+Principle,engulf
+Principle,environmental performance
+Principle,environmentally friendly
+Principle,evaporative cooling
+Principle,evolving
+Principle,Five Points of Architecture
+Principle,flexibility
+Principle,fluidity
+Principle,folded
+Principle,fractured
+Principle,fragmentation
+Principle,free plan
+Principle,friendly
+Principle,functionally optimised
+Principle,futuristic
+Principle,gastalt
+Principle,grid
+Principle,hexagonal
+Principle,high-tech
+Principle,industrial
+Principle,integration
+Principle,interconnectivity
+Principle,interlocking
+Principle,interpenetrate
+Principle,interpenetration
+Principle,interwoven
+Principle,irregular
+Principle,juxtaposition
+Principle,Leviathan
+Principle,machine for living
+Principle,mathematical
+Principle,mechanistic
+Principle,miniature city
+Principle,minimalist
+Principle,misalign
+Principle,modern interpretation
+Principle,modular
+Principle,monochromatic
+Principle,monumentality
+Principle,multi-family
+Principle,multi-purposed
+Principle,nakedness
+Principle,narrative
+Principle,naturally-ventilated
+Principle,neutral
+Principle,open-plan
+Principle,organic
+Principle,organizational efficiency
+Principle,orthogonal
+Principle,parallel
+Principle,planar
+Principle,playfulness
+Principle,positive-negative balance line
+Principle,primary colours
+Principle,programmatic divisions
+Principle,proportional plan to section relationships
+Principle,punctured
+Principle,rational
+Principle,rectilinear
+Principle,restoration
+Principle,rupture
+Principle,seamless
+Principle,serenity
+Principle,shifting
+Principle,simple
+Principle,solidity
+Principle,spatial interplay
+Principle,spatial sequence
+Principle,stack
+Principle,state of the art
+Principle,static shading
+Principle,structural expression
+Principle,study in opposition
+Principle,subtraction
+Principle,suspended
+Principle,symmetry
+Principle,technical capability
+Principle,temporary
+Principle,tension
+Principle,transformable
+Principle,transparency
+Principle,unify
+Principle,utopia
+Principle,vertical garden city
+Principle,verticality
+Principle,views
+Principle,visionary
+Principle,visual connections
+Principle,visual privacy
+Principle,zen buddism
+Principle,porous
+Principle,linear
+Principle,hermetic
+Principle,frozen
+Principle,sharpness
+Principle,social
+Principle,asymmetrical
+Principle,curvilinear
+Programme,Hospital
+Programme,Pavilion
+Programme,Installation
+Programme,Commercial
+Programme,Instiute
+Programme,Gallery
+Programme,Stadium
+Programme,Workspace
+Programme,Retail
+Programme,Library
+Programme,Cultural center
+Programme,Townhouse
+Programme,Observation Deck
+Programme,Airport
+Programme,Residence
+Programme,Place of Worship
+Programme,Civic Building
+Programme,Museum
+Programme,Dormitory
+Programme,Concert Hall / Theatre
+Programme,Educational Facility
+Style,American Craftsmen
+Style,Art Deco
+Style,Art Nouveau
+Style,Baroque
+Style,Beaux Arts
+Style,Nordic Classicism
+Style,Cargotecture
+Style,Classic
+Style,Contemporary
+Style,Deconstructivism
+Style,Futuristic
+Style,High-tech
+Style,International
+Style,Modern
+Style,Neo-futurism
+Style,Neo-Gothic
+Style,Neoclassicism
+Style,Parametric
+Style,Postmodern
+Style,Priairie School
+Style,Renaissance
+Style,Rococo
+Style,Usonian
+Style,Vernacular
+Style,"Zen buddhist, Shoin-zukuri"
+Sub-Aspects,Circulation: Linear
+Sub-Aspects,Circulation: Ramp
+Sub-Aspects,Circulation: Radial
+Sub-Aspects,Circulation: Vertical
+Sub-Aspects,Circulation: Radial
+Sub-Aspects,Operation: Crumple
+Sub-Aspects,Operation: Curve
+Sub-Aspects,Operation: Fold
+Sub-Aspects,Operation: Add
+Sub-Aspects,Operation: Inflate
+Sub-Aspects,Operation: Slot
+Sub-Aspects,Operation: Pull
+Sub-Aspects,Operation: Stack
+Sub-Aspects,Operation: Modulate
+Sub-Aspects,Operation: Subtract
+Sub-Aspects,Ordering Principle: Axis
+Sub-Aspects,Ordering Principle: Datum
+Sub-Aspects,Ordering Principle: Hierachy
+Sub-Aspects,Ordering Principle: Repetition
+Sub-Aspects,Ordering Principle: Symmetry
+Sub-Aspects,Ordering Principle: Transformation
+Sub-Aspects,Site: Climate
+Sub-Aspects,Site: Heritage
+Sub-Aspects,Site: Topography
+Sub-Aspects,Spatial Organisation: Centralised
+Sub-Aspects,Spatial Organisation: Clustered
+Sub-Aspects,Spatial Organisation: Linear
+Sub-Aspects,Spatial Organisation: Grid
+Sub-Aspects,Spatial Organisation: Radial
+Sub-Aspects,Structure: Grid-shell
+Sub-Aspects,Structure: Columns
+Sub-Aspects,Structure: Space Frame
+Sub-Aspects,Structure: Timber Frame
+Sub-Aspects,Structure: Tensile
+Sub-Aspects,Structure: Steel Frame
+Year,1656
+Year,1772
+Year,1905
+Year,1909
+Year,1922
+Year,1925
+Year,1928
+Year,1929
+Year,1937
+Year,1939
+Year,1947
+Year,1948
+Year,1949
+Year,1952
+Year,1954
+Year,1958
+Year,1962
+Year,1963
+Year,1965
+Year,1967
+Year,1970
+Year,1972
+Year,1973
+Year,1977
+Year,1978
+Year,1984
+Year,1986
+Year,1987
+Year,1988
+Year,1993
+Year,1994
+Year,1995
+Year,1996
+Year,1997
+Year,1998
+Year,1999
+Year,2000
+Year,2003
+Year,2006
+Year,2007
+Year,2009
+Year,2010
+Year,2013
+Year,2014
+Year,2015
+Year,2016
+Year,2017
+Year,2019
